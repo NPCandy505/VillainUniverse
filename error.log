@@ -1,0 +1,2652 @@
+[2021-05-19 20:27:40 +0000] [126531] [INFO] Starting gunicorn 20.1.0
+[2021-05-19 20:27:40 +0000] [126531] [INFO] Listening at: http://0.0.0.0:5000 (126531)
+[2021-05-19 20:27:40 +0000] [126531] [INFO] Using worker: sync
+[2021-05-19 20:27:40 +0000] [126534] [INFO] Booting worker with pid: 126534
+[2021-05-19 20:27:41 +0000] [126535] [INFO] Booting worker with pid: 126535
+[2021-05-19 20:27:41 +0000] [126536] [INFO] Booting worker with pid: 126536
+[2021-05-19 20:27:41 +0000] [126537] [INFO] Booting worker with pid: 126537
+[2021-05-19 20:43:23 +0000] [126531] [INFO] Handling signal: term
+[2021-05-19 20:43:23 +0000] [126534] [INFO] Worker exiting (pid: 126534)
+[2021-05-19 20:43:23 +0000] [126536] [INFO] Worker exiting (pid: 126536)
+[2021-05-19 20:43:23 +0000] [126537] [INFO] Worker exiting (pid: 126537)
+[2021-05-19 20:43:23 +0000] [126535] [INFO] Worker exiting (pid: 126535)
+[2021-05-19 20:43:24 +0000] [126531] [INFO] Shutting down: Master
+[2021-05-20 05:43:35 +0900] [126634] [INFO] Starting gunicorn 20.1.0
+[2021-05-20 05:43:35 +0900] [126634] [INFO] Listening at: http://0.0.0.0:5000 (126634)
+[2021-05-20 05:43:35 +0900] [126634] [INFO] Using worker: sync
+[2021-05-20 05:43:35 +0900] [126637] [INFO] Booting worker with pid: 126637
+[2021-05-20 05:43:35 +0900] [126638] [INFO] Booting worker with pid: 126638
+[2021-05-20 05:43:35 +0900] [126639] [INFO] Booting worker with pid: 126639
+[2021-05-20 05:43:35 +0900] [126640] [INFO] Booting worker with pid: 126640
+[2021-05-20 05:44:23 +0900] [126634] [INFO] Handling signal: term
+[2021-05-20 05:44:23 +0900] [126637] [INFO] Worker exiting (pid: 126637)
+[2021-05-20 05:44:23 +0900] [126638] [INFO] Worker exiting (pid: 126638)
+[2021-05-20 05:44:23 +0900] [126640] [INFO] Worker exiting (pid: 126640)
+[2021-05-20 05:44:23 +0900] [126639] [INFO] Worker exiting (pid: 126639)
+[2021-05-20 05:44:23 +0900] [126634] [INFO] Shutting down: Master
+[2021-05-20 15:51:59 +0900] [131383] [INFO] Starting gunicorn 20.1.0
+[2021-05-20 15:51:59 +0900] [131383] [INFO] Listening at: http://0.0.0.0:5000 (131383)
+[2021-05-20 15:51:59 +0900] [131383] [INFO] Using worker: sync
+[2021-05-20 15:51:59 +0900] [131390] [INFO] Booting worker with pid: 131390
+[2021-05-20 15:51:59 +0900] [131391] [INFO] Booting worker with pid: 131391
+[2021-05-20 15:51:59 +0900] [131392] [INFO] Booting worker with pid: 131392
+[2021-05-20 15:51:59 +0900] [131393] [INFO] Booting worker with pid: 131393
+[2021-05-20 16:14:25 +0900] [131383] [WARNING] Worker with pid 131391 was terminated due to signal 1
+[2021-05-20 16:14:25 +0900] [131383] [WARNING] Worker with pid 131393 was terminated due to signal 1
+[2021-05-20 16:14:25 +0900] [131383] [WARNING] Worker with pid 131390 was terminated due to signal 1
+[2021-05-20 16:14:25 +0900] [131383] [WARNING] Worker with pid 131392 was terminated due to signal 1
+[2021-05-20 16:14:25 +0900] [132706] [INFO] Booting worker with pid: 132706
+[2021-05-20 16:14:25 +0900] [132707] [INFO] Booting worker with pid: 132707
+[2021-05-20 16:14:25 +0900] [131383] [INFO] Handling signal: hup
+[2021-05-20 16:14:25 +0900] [131383] [INFO] Hang up: Master
+[2021-05-20 16:14:25 +0900] [132708] [INFO] Booting worker with pid: 132708
+[2021-05-20 16:14:25 +0900] [132709] [INFO] Booting worker with pid: 132709
+[2021-05-20 16:14:25 +0900] [132710] [INFO] Booting worker with pid: 132710
+[2021-05-20 16:14:25 +0900] [132711] [INFO] Booting worker with pid: 132711
+[2021-05-20 16:14:26 +0900] [132706] [INFO] Worker exiting (pid: 132706)
+[2021-05-20 16:14:26 +0900] [132707] [INFO] Worker exiting (pid: 132707)
+[2021-05-20 16:14:26 +0900] [131383] [WARNING] Worker with pid 132707 was terminated due to signal 15
+[2021-05-20 17:09:35 +0900] [131383] [INFO] Handling signal: term
+[2021-05-20 17:09:35 +0900] [132709] [INFO] Worker exiting (pid: 132709)
+[2021-05-20 17:09:35 +0900] [132708] [INFO] Worker exiting (pid: 132708)
+[2021-05-20 17:09:35 +0900] [132710] [INFO] Worker exiting (pid: 132710)
+[2021-05-20 17:09:35 +0900] [132711] [INFO] Worker exiting (pid: 132711)
+[2021-05-20 17:09:35 +0900] [131383] [INFO] Shutting down: Master
+[2021-05-20 17:09:35 +0900] [136825] [INFO] Starting gunicorn 20.1.0
+[2021-05-20 17:09:35 +0900] [136825] [INFO] Listening at: http://0.0.0.0:5000 (136825)
+[2021-05-20 17:09:35 +0900] [136825] [INFO] Using worker: sync
+[2021-05-20 17:09:35 +0900] [136831] [INFO] Booting worker with pid: 136831
+[2021-05-20 17:09:35 +0900] [136832] [INFO] Booting worker with pid: 136832
+[2021-05-20 17:09:36 +0900] [136834] [INFO] Booting worker with pid: 136834
+[2021-05-20 17:09:36 +0900] [136835] [INFO] Booting worker with pid: 136835
+[2021-05-20 17:15:17 +0900] [136825] [INFO] Handling signal: term
+[2021-05-20 17:15:17 +0900] [136831] [INFO] Worker exiting (pid: 136831)
+[2021-05-20 17:15:17 +0900] [136835] [INFO] Worker exiting (pid: 136835)
+[2021-05-20 17:15:17 +0900] [136832] [INFO] Worker exiting (pid: 136832)
+[2021-05-20 17:15:17 +0900] [136834] [INFO] Worker exiting (pid: 136834)
+[2021-05-20 17:15:17 +0900] [136825] [INFO] Shutting down: Master
+[2021-05-20 17:15:17 +0900] [137190] [INFO] Starting gunicorn 20.1.0
+[2021-05-20 17:15:17 +0900] [137190] [INFO] Listening at: http://0.0.0.0:5000 (137190)
+[2021-05-20 17:15:17 +0900] [137190] [INFO] Using worker: sync
+[2021-05-20 17:15:17 +0900] [137196] [INFO] Booting worker with pid: 137196
+[2021-05-20 17:15:17 +0900] [137197] [INFO] Booting worker with pid: 137197
+[2021-05-20 17:15:17 +0900] [137198] [INFO] Booting worker with pid: 137198
+[2021-05-20 17:15:17 +0900] [137199] [INFO] Booting worker with pid: 137199
+[2021-05-20 17:34:24 +0900] [137190] [WARNING] Worker with pid 137196 was terminated due to signal 1
+[2021-05-20 17:34:24 +0900] [137190] [WARNING] Worker with pid 137197 was terminated due to signal 1
+[2021-05-20 17:34:24 +0900] [137190] [WARNING] Worker with pid 137198 was terminated due to signal 1
+[2021-05-20 17:34:24 +0900] [137190] [WARNING] Worker with pid 137199 was terminated due to signal 1
+[2021-05-20 17:34:24 +0900] [138283] [INFO] Booting worker with pid: 138283
+[2021-05-20 17:34:24 +0900] [138284] [INFO] Booting worker with pid: 138284
+[2021-05-20 17:34:24 +0900] [138285] [INFO] Booting worker with pid: 138285
+[2021-05-20 17:34:24 +0900] [138286] [INFO] Booting worker with pid: 138286
+[2021-05-20 17:34:24 +0900] [137190] [INFO] Handling signal: hup
+[2021-05-20 17:34:24 +0900] [137190] [INFO] Hang up: Master
+[2021-05-20 17:34:25 +0900] [138283] [INFO] Worker exiting (pid: 138283)
+[2021-05-20 17:34:25 +0900] [138287] [INFO] Booting worker with pid: 138287
+[2021-05-20 17:34:25 +0900] [138288] [INFO] Booting worker with pid: 138288
+[2021-05-20 17:34:25 +0900] [138289] [INFO] Booting worker with pid: 138289
+[2021-05-20 17:34:25 +0900] [138290] [INFO] Booting worker with pid: 138290
+[2021-05-20 17:34:25 +0900] [138284] [INFO] Worker exiting (pid: 138284)
+[2021-05-20 17:34:25 +0900] [138285] [INFO] Worker exiting (pid: 138285)
+[2021-05-20 17:34:25 +0900] [137190] [WARNING] Worker with pid 138285 was terminated due to signal 15
+[2021-05-20 17:34:25 +0900] [138286] [INFO] Worker exiting (pid: 138286)
+[2021-05-21 00:45:09 +0900] [137190] [INFO] Handling signal: term
+[2021-05-21 00:45:09 +0900] [138287] [INFO] Worker exiting (pid: 138287)
+[2021-05-21 00:45:09 +0900] [138288] [INFO] Worker exiting (pid: 138288)
+[2021-05-21 00:45:09 +0900] [138289] [INFO] Worker exiting (pid: 138289)
+[2021-05-21 00:45:09 +0900] [138290] [INFO] Worker exiting (pid: 138290)
+[2021-05-21 00:45:09 +0900] [137190] [INFO] Shutting down: Master
+[2021-05-21 00:45:09 +0900] [140610] [INFO] Starting gunicorn 20.1.0
+[2021-05-21 00:45:09 +0900] [140610] [INFO] Listening at: http://0.0.0.0:5000 (140610)
+[2021-05-21 00:45:09 +0900] [140610] [INFO] Using worker: sync
+[2021-05-21 00:45:09 +0900] [140613] [INFO] Booting worker with pid: 140613
+[2021-05-21 00:45:09 +0900] [140614] [INFO] Booting worker with pid: 140614
+[2021-05-21 00:45:09 +0900] [140615] [INFO] Booting worker with pid: 140615
+[2021-05-21 00:45:09 +0900] [140616] [INFO] Booting worker with pid: 140616
+[2021-05-21 00:45:22,575] ERROR in app: Exception on /fallback [POST]
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/site-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python3.7/site-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python3.7/site-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python3.7/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/usr/local/lib/python3.7/site-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python3.7/site-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/workspace/Villain_Universe/fallback.py", line 184, in fallback
+    [종이 3]을 획득했다.""", item = 'piece_3')
+  File "/workspace/Villain_Universe/fallback.py", line 104, in open_room
+    return bad_ending(prev_block_id)
+  File "/workspace/Villain_Universe/fallback.py", line 38, in bad_ending
+    save_block(user_id, prev_block_id)
+NameError: name 'user_id' is not defined
+[2021-05-21 00:45:35,307] ERROR in app: Exception on /fallback [POST]
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/site-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python3.7/site-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python3.7/site-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python3.7/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/usr/local/lib/python3.7/site-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python3.7/site-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/workspace/Villain_Universe/fallback.py", line 184, in fallback
+    [종이 3]을 획득했다.""", item = 'piece_3')
+  File "/workspace/Villain_Universe/fallback.py", line 104, in open_room
+    return bad_ending(prev_block_id)
+  File "/workspace/Villain_Universe/fallback.py", line 38, in bad_ending
+    save_block(user_id, prev_block_id)
+NameError: name 'user_id' is not defined
+[2021-05-21 00:46:36,398] ERROR in app: Exception on /fallback [POST]
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/site-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python3.7/site-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python3.7/site-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python3.7/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/usr/local/lib/python3.7/site-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python3.7/site-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/workspace/Villain_Universe/fallback.py", line 201, in fallback
+    , images.background_7, item = 'piece_5')
+  File "/workspace/Villain_Universe/fallback.py", line 104, in open_room
+    return bad_ending(prev_block_id)
+  File "/workspace/Villain_Universe/fallback.py", line 38, in bad_ending
+    save_block(user_id, prev_block_id)
+NameError: name 'user_id' is not defined
+[2021-05-21 00:46:52,223] ERROR in app: Exception on /fallback [POST]
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/site-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python3.7/site-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python3.7/site-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python3.7/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/usr/local/lib/python3.7/site-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python3.7/site-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/workspace/Villain_Universe/fallback.py", line 201, in fallback
+    , images.background_7, item = 'piece_5')
+  File "/workspace/Villain_Universe/fallback.py", line 104, in open_room
+    return bad_ending(prev_block_id)
+  File "/workspace/Villain_Universe/fallback.py", line 38, in bad_ending
+    save_block(user_id, prev_block_id)
+NameError: name 'user_id' is not defined
+[2021-05-21 00:47:21 +0900] [140610] [INFO] Handling signal: term
+[2021-05-21 00:47:21 +0900] [140615] [INFO] Worker exiting (pid: 140615)
+[2021-05-21 00:47:21 +0900] [140614] [INFO] Worker exiting (pid: 140614)
+[2021-05-21 00:47:21 +0900] [140616] [INFO] Worker exiting (pid: 140616)
+[2021-05-21 00:47:21 +0900] [140613] [INFO] Worker exiting (pid: 140613)
+[2021-05-21 00:47:21 +0900] [140610] [INFO] Shutting down: Master
+[2021-05-21 00:47:21 +0900] [140621] [INFO] Starting gunicorn 20.1.0
+[2021-05-21 00:47:21 +0900] [140621] [INFO] Listening at: http://0.0.0.0:5000 (140621)
+[2021-05-21 00:47:21 +0900] [140621] [INFO] Using worker: sync
+[2021-05-21 00:47:21 +0900] [140624] [INFO] Booting worker with pid: 140624
+[2021-05-21 00:47:21 +0900] [140625] [INFO] Booting worker with pid: 140625
+[2021-05-21 00:47:21 +0900] [140626] [INFO] Booting worker with pid: 140626
+[2021-05-21 00:47:21 +0900] [140627] [INFO] Booting worker with pid: 140627
+[2021-05-21 01:08:20 +0900] [140621] [WARNING] Worker with pid 140624 was terminated due to signal 1
+[2021-05-21 01:08:20 +0900] [140621] [WARNING] Worker with pid 140625 was terminated due to signal 1
+[2021-05-21 01:08:20 +0900] [140621] [WARNING] Worker with pid 140626 was terminated due to signal 1
+[2021-05-21 01:08:20 +0900] [140621] [WARNING] Worker with pid 140627 was terminated due to signal 1
+[2021-05-21 01:08:20 +0900] [140628] [INFO] Booting worker with pid: 140628
+[2021-05-21 01:08:20 +0900] [140629] [INFO] Booting worker with pid: 140629
+[2021-05-21 01:08:20 +0900] [140630] [INFO] Booting worker with pid: 140630
+[2021-05-21 01:08:20 +0900] [140631] [INFO] Booting worker with pid: 140631
+[2021-05-21 01:08:20 +0900] [140621] [INFO] Handling signal: hup
+[2021-05-21 01:08:20 +0900] [140621] [INFO] Hang up: Master
+[2021-05-21 01:08:20 +0900] [140632] [INFO] Booting worker with pid: 140632
+[2021-05-21 01:08:20 +0900] [140633] [INFO] Booting worker with pid: 140633
+[2021-05-21 01:08:20 +0900] [140628] [INFO] Worker exiting (pid: 140628)
+[2021-05-21 01:08:20 +0900] [140634] [INFO] Booting worker with pid: 140634
+[2021-05-21 01:08:20 +0900] [140635] [INFO] Booting worker with pid: 140635
+[2021-05-21 01:08:20 +0900] [140621] [WARNING] Worker with pid 140628 was terminated due to signal 15
+[2021-05-21 01:08:21 +0900] [140629] [INFO] Worker exiting (pid: 140629)
+[2021-05-21 01:08:21 +0900] [140630] [INFO] Worker exiting (pid: 140630)
+[2021-05-21 01:08:21 +0900] [140621] [WARNING] Worker with pid 140629 was terminated due to signal 15
+[2021-05-21 01:08:21 +0900] [140631] [INFO] Worker exiting (pid: 140631)
+[2021-05-23 22:22:51,327] ERROR in app: Exception on /simpleskillanswer [POST]
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/site-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python3.7/site-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python3.7/site-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python3.7/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/usr/local/lib/python3.7/site-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python3.7/site-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/workspace/Villain_Universe/application.py", line 34, in simpleskillanswer
+    print('user utterance: '+utterance)
+OSError: [Errno 5] Input/output error
+[2021-05-23 22:22:55,805] ERROR in app: Exception on /simpleskillanswer [POST]
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/site-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python3.7/site-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python3.7/site-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python3.7/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/usr/local/lib/python3.7/site-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python3.7/site-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/workspace/Villain_Universe/application.py", line 34, in simpleskillanswer
+    print('user utterance: '+utterance)
+OSError: [Errno 5] Input/output error
+[2021-05-23 22:37:26 +0900] [146569] [INFO] Starting gunicorn 20.1.0
+[2021-05-23 22:37:26 +0900] [146569] [ERROR] Connection in use: ('0.0.0.0', 5000)
+[2021-05-23 22:37:26 +0900] [146569] [ERROR] Retrying in 1 second.
+[2021-05-23 22:37:27 +0900] [146569] [ERROR] Connection in use: ('0.0.0.0', 5000)
+[2021-05-23 22:37:27 +0900] [146569] [ERROR] Retrying in 1 second.
+[2021-05-23 22:37:28 +0900] [146569] [ERROR] Connection in use: ('0.0.0.0', 5000)
+[2021-05-23 22:37:28 +0900] [146569] [ERROR] Retrying in 1 second.
+[2021-05-23 22:37:29 +0900] [146569] [ERROR] Connection in use: ('0.0.0.0', 5000)
+[2021-05-23 22:37:29 +0900] [146569] [ERROR] Retrying in 1 second.
+[2021-05-23 22:37:30 +0900] [146569] [ERROR] Connection in use: ('0.0.0.0', 5000)
+[2021-05-23 22:37:30 +0900] [146569] [ERROR] Retrying in 1 second.
+[2021-05-23 22:37:31 +0900] [146569] [ERROR] Can't connect to ('0.0.0.0', 5000)
+[2021-05-23 22:38:14 +0900] [140621] [INFO] Handling signal: term
+[2021-05-23 22:38:14 +0900] [140632] [INFO] Worker exiting (pid: 140632)
+[2021-05-23 22:38:14 +0900] [140633] [INFO] Worker exiting (pid: 140633)
+[2021-05-23 22:38:14 +0900] [140634] [INFO] Worker exiting (pid: 140634)
+[2021-05-23 22:38:14 +0900] [140635] [INFO] Worker exiting (pid: 140635)
+[2021-05-23 22:38:14 +0900] [140621] [INFO] Shutting down: Master
+[2021-05-23 22:38:14 +0900] [146675] [INFO] Starting gunicorn 20.1.0
+[2021-05-23 22:38:14 +0900] [146675] [INFO] Listening at: http://0.0.0.0:5000 (146675)
+[2021-05-23 22:38:14 +0900] [146675] [INFO] Using worker: sync
+[2021-05-23 22:38:14 +0900] [146681] [INFO] Booting worker with pid: 146681
+[2021-05-23 22:38:14 +0900] [146682] [INFO] Booting worker with pid: 146682
+[2021-05-23 22:38:15 +0900] [146683] [INFO] Booting worker with pid: 146683
+[2021-05-23 22:38:15 +0900] [146684] [INFO] Booting worker with pid: 146684
+[2021-05-23 22:50:36 +0900] [146675] [INFO] Handling signal: term
+[2021-05-23 22:50:36 +0900] [146681] [INFO] Worker exiting (pid: 146681)
+[2021-05-23 22:50:36 +0900] [146684] [INFO] Worker exiting (pid: 146684)
+[2021-05-23 22:50:36 +0900] [146682] [INFO] Worker exiting (pid: 146682)
+[2021-05-23 22:50:36 +0900] [146683] [INFO] Worker exiting (pid: 146683)
+[2021-05-23 22:50:36 +0900] [146675] [INFO] Shutting down: Master
+[2021-05-23 22:50:36 +0900] [148009] [INFO] Starting gunicorn 20.1.0
+[2021-05-23 22:50:36 +0900] [148009] [INFO] Listening at: http://0.0.0.0:5000 (148009)
+[2021-05-23 22:50:36 +0900] [148009] [INFO] Using worker: sync
+[2021-05-23 22:50:36 +0900] [148015] [INFO] Booting worker with pid: 148015
+[2021-05-23 22:50:36 +0900] [148016] [INFO] Booting worker with pid: 148016
+[2021-05-23 22:50:36 +0900] [148017] [INFO] Booting worker with pid: 148017
+[2021-05-23 22:50:36 +0900] [148015] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/site-packages/gunicorn/arbiter.py", line 589, in spawn_worker
+    worker.init_process()
+  File "/usr/local/lib/python3.7/site-packages/gunicorn/workers/base.py", line 134, in init_process
+    self.load_wsgi()
+  File "/usr/local/lib/python3.7/site-packages/gunicorn/workers/base.py", line 146, in load_wsgi
+    self.wsgi = self.app.wsgi()
+  File "/usr/local/lib/python3.7/site-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+  File "/usr/local/lib/python3.7/site-packages/gunicorn/app/wsgiapp.py", line 58, in load
+    return self.load_wsgiapp()
+  File "/usr/local/lib/python3.7/site-packages/gunicorn/app/wsgiapp.py", line 48, in load_wsgiapp
+    return util.import_app(self.app_uri)
+  File "/usr/local/lib/python3.7/site-packages/gunicorn/util.py", line 359, in import_app
+    mod = importlib.import_module(module)
+  File "/usr/local/lib/python3.7/importlib/__init__.py", line 127, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1006, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 983, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 967, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 677, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/workspace/Villain_Universe/application.py", line 3, in <module>
+    import user, inventory, items, intro, boat, church, sharehouse, basement1, basement2, lock, ending, hint, fallback, test#, woodenDoll
+  File "/workspace/Villain_Universe/basement1.py", line 115
+    } for i in range(10)
+        ^
+SyntaxError: invalid syntax
+[2021-05-23 22:50:36 +0900] [148015] [INFO] Worker exiting (pid: 148015)
+[2021-05-23 22:50:36 +0900] [148018] [INFO] Booting worker with pid: 148018
+[2021-05-23 22:50:36 +0900] [148016] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/site-packages/gunicorn/arbiter.py", line 589, in spawn_worker
+    worker.init_process()
+  File "/usr/local/lib/python3.7/site-packages/gunicorn/workers/base.py", line 134, in init_process
+    self.load_wsgi()
+  File "/usr/local/lib/python3.7/site-packages/gunicorn/workers/base.py", line 146, in load_wsgi
+    self.wsgi = self.app.wsgi()
+  File "/usr/local/lib/python3.7/site-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+  File "/usr/local/lib/python3.7/site-packages/gunicorn/app/wsgiapp.py", line 58, in load
+    return self.load_wsgiapp()
+  File "/usr/local/lib/python3.7/site-packages/gunicorn/app/wsgiapp.py", line 48, in load_wsgiapp
+    return util.import_app(self.app_uri)
+  File "/usr/local/lib/python3.7/site-packages/gunicorn/util.py", line 359, in import_app
+    mod = importlib.import_module(module)
+  File "/usr/local/lib/python3.7/importlib/__init__.py", line 127, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1006, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 983, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 967, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 677, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/workspace/Villain_Universe/application.py", line 3, in <module>
+    import user, inventory, items, intro, boat, church, sharehouse, basement1, basement2, lock, ending, hint, fallback, test#, woodenDoll
+  File "/workspace/Villain_Universe/basement1.py", line 115
+    } for i in range(10)
+        ^
+SyntaxError: invalid syntax
+[2021-05-23 22:50:36 +0900] [148016] [INFO] Worker exiting (pid: 148016)
+[2021-05-23 22:50:37 +0900] [148017] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/site-packages/gunicorn/arbiter.py", line 589, in spawn_worker
+    worker.init_process()
+  File "/usr/local/lib/python3.7/site-packages/gunicorn/workers/base.py", line 134, in init_process
+    self.load_wsgi()
+  File "/usr/local/lib/python3.7/site-packages/gunicorn/workers/base.py", line 146, in load_wsgi
+    self.wsgi = self.app.wsgi()
+  File "/usr/local/lib/python3.7/site-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+  File "/usr/local/lib/python3.7/site-packages/gunicorn/app/wsgiapp.py", line 58, in load
+    return self.load_wsgiapp()
+  File "/usr/local/lib/python3.7/site-packages/gunicorn/app/wsgiapp.py", line 48, in load_wsgiapp
+    return util.import_app(self.app_uri)
+  File "/usr/local/lib/python3.7/site-packages/gunicorn/util.py", line 359, in import_app
+    mod = importlib.import_module(module)
+  File "/usr/local/lib/python3.7/importlib/__init__.py", line 127, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1006, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 983, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 967, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 677, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/workspace/Villain_Universe/application.py", line 3, in <module>
+    import user, inventory, items, intro, boat, church, sharehouse, basement1, basement2, lock, ending, hint, fallback, test#, woodenDoll
+  File "/workspace/Villain_Universe/basement1.py", line 115
+    } for i in range(10)
+        ^
+SyntaxError: invalid syntax
+[2021-05-23 22:50:37 +0900] [148017] [INFO] Worker exiting (pid: 148017)
+[2021-05-23 22:50:37 +0900] [148018] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/site-packages/gunicorn/arbiter.py", line 589, in spawn_worker
+    worker.init_process()
+  File "/usr/local/lib/python3.7/site-packages/gunicorn/workers/base.py", line 134, in init_process
+    self.load_wsgi()
+  File "/usr/local/lib/python3.7/site-packages/gunicorn/workers/base.py", line 146, in load_wsgi
+    self.wsgi = self.app.wsgi()
+  File "/usr/local/lib/python3.7/site-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+  File "/usr/local/lib/python3.7/site-packages/gunicorn/app/wsgiapp.py", line 58, in load
+    return self.load_wsgiapp()
+  File "/usr/local/lib/python3.7/site-packages/gunicorn/app/wsgiapp.py", line 48, in load_wsgiapp
+    return util.import_app(self.app_uri)
+  File "/usr/local/lib/python3.7/site-packages/gunicorn/util.py", line 359, in import_app
+    mod = importlib.import_module(module)
+  File "/usr/local/lib/python3.7/importlib/__init__.py", line 127, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1006, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 983, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 967, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 677, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/workspace/Villain_Universe/application.py", line 3, in <module>
+    import user, inventory, items, intro, boat, church, sharehouse, basement1, basement2, lock, ending, hint, fallback, test#, woodenDoll
+  File "/workspace/Villain_Universe/basement1.py", line 115
+    } for i in range(10)
+        ^
+SyntaxError: invalid syntax
+[2021-05-23 22:50:37 +0900] [148018] [INFO] Worker exiting (pid: 148018)
+[2021-05-23 22:51:53 +0900] [148094] [INFO] Starting gunicorn 20.1.0
+[2021-05-23 22:51:53 +0900] [148094] [INFO] Listening at: http://0.0.0.0:5000 (148094)
+[2021-05-23 22:51:53 +0900] [148094] [INFO] Using worker: sync
+[2021-05-23 22:51:53 +0900] [148100] [INFO] Booting worker with pid: 148100
+[2021-05-23 22:51:54 +0900] [148101] [INFO] Booting worker with pid: 148101
+[2021-05-23 22:51:54 +0900] [148100] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/site-packages/gunicorn/arbiter.py", line 589, in spawn_worker
+    worker.init_process()
+  File "/usr/local/lib/python3.7/site-packages/gunicorn/workers/base.py", line 134, in init_process
+    self.load_wsgi()
+  File "/usr/local/lib/python3.7/site-packages/gunicorn/workers/base.py", line 146, in load_wsgi
+    self.wsgi = self.app.wsgi()
+  File "/usr/local/lib/python3.7/site-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+  File "/usr/local/lib/python3.7/site-packages/gunicorn/app/wsgiapp.py", line 58, in load
+    return self.load_wsgiapp()
+  File "/usr/local/lib/python3.7/site-packages/gunicorn/app/wsgiapp.py", line 48, in load_wsgiapp
+    return util.import_app(self.app_uri)
+  File "/usr/local/lib/python3.7/site-packages/gunicorn/util.py", line 359, in import_app
+    mod = importlib.import_module(module)
+  File "/usr/local/lib/python3.7/importlib/__init__.py", line 127, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1006, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 983, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 967, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 677, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/workspace/Villain_Universe/application.py", line 3, in <module>
+    import user, inventory, items, intro, boat, church, sharehouse, basement1, basement2, lock, ending, hint, fallback, test#, woodenDoll
+  File "/workspace/Villain_Universe/basement1.py", line 115
+    } for i in range(10)
+        ^
+SyntaxError: invalid syntax
+[2021-05-23 22:51:54 +0900] [148100] [INFO] Worker exiting (pid: 148100)
+[2021-05-23 22:51:54 +0900] [148102] [INFO] Booting worker with pid: 148102
+[2021-05-23 22:51:54 +0900] [148101] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/site-packages/gunicorn/arbiter.py", line 589, in spawn_worker
+    worker.init_process()
+  File "/usr/local/lib/python3.7/site-packages/gunicorn/workers/base.py", line 134, in init_process
+    self.load_wsgi()
+  File "/usr/local/lib/python3.7/site-packages/gunicorn/workers/base.py", line 146, in load_wsgi
+    self.wsgi = self.app.wsgi()
+  File "/usr/local/lib/python3.7/site-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+  File "/usr/local/lib/python3.7/site-packages/gunicorn/app/wsgiapp.py", line 58, in load
+    return self.load_wsgiapp()
+  File "/usr/local/lib/python3.7/site-packages/gunicorn/app/wsgiapp.py", line 48, in load_wsgiapp
+    return util.import_app(self.app_uri)
+  File "/usr/local/lib/python3.7/site-packages/gunicorn/util.py", line 359, in import_app
+    mod = importlib.import_module(module)
+  File "/usr/local/lib/python3.7/importlib/__init__.py", line 127, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1006, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 983, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 967, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 677, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/workspace/Villain_Universe/application.py", line 3, in <module>
+    import user, inventory, items, intro, boat, church, sharehouse, basement1, basement2, lock, ending, hint, fallback, test#, woodenDoll
+  File "/workspace/Villain_Universe/basement1.py", line 115
+    } for i in range(10)
+        ^
+SyntaxError: invalid syntax
+[2021-05-23 22:51:54 +0900] [148101] [INFO] Worker exiting (pid: 148101)
+[2021-05-23 22:51:54 +0900] [148102] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/site-packages/gunicorn/arbiter.py", line 589, in spawn_worker
+    worker.init_process()
+  File "/usr/local/lib/python3.7/site-packages/gunicorn/workers/base.py", line 134, in init_process
+    self.load_wsgi()
+  File "/usr/local/lib/python3.7/site-packages/gunicorn/workers/base.py", line 146, in load_wsgi
+    self.wsgi = self.app.wsgi()
+  File "/usr/local/lib/python3.7/site-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+  File "/usr/local/lib/python3.7/site-packages/gunicorn/app/wsgiapp.py", line 58, in load
+    return self.load_wsgiapp()
+  File "/usr/local/lib/python3.7/site-packages/gunicorn/app/wsgiapp.py", line 48, in load_wsgiapp
+    return util.import_app(self.app_uri)
+  File "/usr/local/lib/python3.7/site-packages/gunicorn/util.py", line 359, in import_app
+    mod = importlib.import_module(module)
+  File "/usr/local/lib/python3.7/importlib/__init__.py", line 127, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1006, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 983, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 967, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 677, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/workspace/Villain_Universe/application.py", line 3, in <module>
+    import user, inventory, items, intro, boat, church, sharehouse, basement1, basement2, lock, ending, hint, fallback, test#, woodenDoll
+  File "/workspace/Villain_Universe/basement1.py", line 115
+    } for i in range(10)
+        ^
+SyntaxError: invalid syntax
+[2021-05-23 22:51:54 +0900] [148102] [INFO] Worker exiting (pid: 148102)
+[2021-05-23 22:54:59 +0900] [148295] [INFO] Starting gunicorn 20.1.0
+[2021-05-23 22:54:59 +0900] [148295] [INFO] Listening at: http://0.0.0.0:5000 (148295)
+[2021-05-23 22:54:59 +0900] [148295] [INFO] Using worker: sync
+[2021-05-23 22:54:59 +0900] [148301] [INFO] Booting worker with pid: 148301
+[2021-05-23 22:54:59 +0900] [148302] [INFO] Booting worker with pid: 148302
+[2021-05-23 22:54:59 +0900] [148303] [INFO] Booting worker with pid: 148303
+[2021-05-23 22:54:59 +0900] [148304] [INFO] Booting worker with pid: 148304
+[2021-05-23 22:56:49 +0900] [148295] [INFO] Handling signal: term
+[2021-05-23 22:56:49 +0900] [148302] [INFO] Worker exiting (pid: 148302)
+[2021-05-23 22:56:49 +0900] [148301] [INFO] Worker exiting (pid: 148301)
+[2021-05-23 22:56:49 +0900] [148303] [INFO] Worker exiting (pid: 148303)
+[2021-05-23 22:56:49 +0900] [148304] [INFO] Worker exiting (pid: 148304)
+[2021-05-23 22:56:50 +0900] [148295] [INFO] Shutting down: Master
+[2021-05-23 22:56:50 +0900] [148417] [INFO] Starting gunicorn 20.1.0
+[2021-05-23 22:56:50 +0900] [148417] [INFO] Listening at: http://0.0.0.0:5000 (148417)
+[2021-05-23 22:56:50 +0900] [148417] [INFO] Using worker: sync
+[2021-05-23 22:56:50 +0900] [148423] [INFO] Booting worker with pid: 148423
+[2021-05-23 22:56:50 +0900] [148425] [INFO] Booting worker with pid: 148425
+[2021-05-23 22:56:50 +0900] [148426] [INFO] Booting worker with pid: 148426
+[2021-05-23 22:56:50 +0900] [148427] [INFO] Booting worker with pid: 148427
+[2021-05-23 22:58:21,241] ERROR in app: Exception on /basement_3 [POST]
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/site-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python3.7/site-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python3.7/site-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python3.7/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/usr/local/lib/python3.7/site-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python3.7/site-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/workspace/Villain_Universe/basement1.py", line 116, in basement_3
+    } for i in range(10)
+  File "/workspace/Villain_Universe/basement1.py", line 116, in <listcomp>
+    } for i in range(10)
+TypeError: can only concatenate list (not "str") to list
+[2021-05-23 22:59:00 +0900] [148417] [INFO] Handling signal: term
+[2021-05-23 22:59:00 +0900] [148423] [INFO] Worker exiting (pid: 148423)
+[2021-05-23 22:59:00 +0900] [148425] [INFO] Worker exiting (pid: 148425)
+[2021-05-23 22:59:00 +0900] [148426] [INFO] Worker exiting (pid: 148426)
+[2021-05-23 22:59:00 +0900] [148427] [INFO] Worker exiting (pid: 148427)
+[2021-05-23 22:59:01 +0900] [148417] [INFO] Shutting down: Master
+[2021-05-23 22:59:01 +0900] [148559] [INFO] Starting gunicorn 20.1.0
+[2021-05-23 22:59:01 +0900] [148559] [INFO] Listening at: http://0.0.0.0:5000 (148559)
+[2021-05-23 22:59:01 +0900] [148559] [INFO] Using worker: sync
+[2021-05-23 22:59:01 +0900] [148565] [INFO] Booting worker with pid: 148565
+[2021-05-23 22:59:01 +0900] [148566] [INFO] Booting worker with pid: 148566
+[2021-05-23 22:59:01 +0900] [148567] [INFO] Booting worker with pid: 148567
+[2021-05-23 22:59:01 +0900] [148568] [INFO] Booting worker with pid: 148568
+[2021-05-23 22:59:29 +0900] [148559] [INFO] Handling signal: term
+[2021-05-23 22:59:29 +0900] [148565] [INFO] Worker exiting (pid: 148565)
+[2021-05-23 22:59:29 +0900] [148567] [INFO] Worker exiting (pid: 148567)
+[2021-05-23 22:59:29 +0900] [148568] [INFO] Worker exiting (pid: 148568)
+[2021-05-23 22:59:29 +0900] [148566] [INFO] Worker exiting (pid: 148566)
+[2021-05-23 22:59:29 +0900] [148559] [INFO] Shutting down: Master
+[2021-05-23 22:59:29 +0900] [148596] [INFO] Starting gunicorn 20.1.0
+[2021-05-23 22:59:29 +0900] [148596] [INFO] Listening at: http://0.0.0.0:5000 (148596)
+[2021-05-23 22:59:29 +0900] [148596] [INFO] Using worker: sync
+[2021-05-23 22:59:29 +0900] [148603] [INFO] Booting worker with pid: 148603
+[2021-05-23 22:59:29 +0900] [148604] [INFO] Booting worker with pid: 148604
+[2021-05-23 22:59:29 +0900] [148605] [INFO] Booting worker with pid: 148605
+[2021-05-23 22:59:29 +0900] [148606] [INFO] Booting worker with pid: 148606
+[2021-05-23 22:59:45 +0900] [148596] [INFO] Handling signal: term
+[2021-05-23 22:59:45 +0900] [148604] [INFO] Worker exiting (pid: 148604)
+[2021-05-23 22:59:45 +0900] [148603] [INFO] Worker exiting (pid: 148603)
+[2021-05-23 22:59:45 +0900] [148605] [INFO] Worker exiting (pid: 148605)
+[2021-05-23 22:59:46 +0900] [148606] [INFO] Worker exiting (pid: 148606)
+[2021-05-23 22:59:46 +0900] [148596] [INFO] Shutting down: Master
+[2021-05-23 22:59:46 +0900] [148622] [INFO] Starting gunicorn 20.1.0
+[2021-05-23 22:59:46 +0900] [148622] [INFO] Listening at: http://0.0.0.0:5000 (148622)
+[2021-05-23 22:59:46 +0900] [148622] [INFO] Using worker: sync
+[2021-05-23 22:59:46 +0900] [148629] [INFO] Booting worker with pid: 148629
+[2021-05-23 22:59:46 +0900] [148630] [INFO] Booting worker with pid: 148630
+[2021-05-23 22:59:46 +0900] [148631] [INFO] Booting worker with pid: 148631
+[2021-05-23 22:59:46 +0900] [148632] [INFO] Booting worker with pid: 148632
+[2021-05-23 22:59:49,826] ERROR in app: Exception on /basement_3 [POST]
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/site-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python3.7/site-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python3.7/site-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python3.7/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/usr/local/lib/python3.7/site-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python3.7/site-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/workspace/Villain_Universe/basement1.py", line 105, in basement_3
+    } for i in range(10)
+  File "/workspace/Villain_Universe/basement1.py", line 105, in <listcomp>
+    } for i in range(10)
+TypeError: can only concatenate list (not "str") to list
+[2021-05-23 23:00:16 +0900] [148622] [INFO] Handling signal: term
+[2021-05-23 23:00:16 +0900] [148629] [INFO] Worker exiting (pid: 148629)
+[2021-05-23 23:00:16 +0900] [148631] [INFO] Worker exiting (pid: 148631)
+[2021-05-23 23:00:16 +0900] [148632] [INFO] Worker exiting (pid: 148632)
+[2021-05-23 23:00:16 +0900] [148630] [INFO] Worker exiting (pid: 148630)
+[2021-05-23 23:00:16 +0900] [148622] [INFO] Shutting down: Master
+[2021-05-23 23:00:17 +0900] [148662] [INFO] Starting gunicorn 20.1.0
+[2021-05-23 23:00:17 +0900] [148662] [INFO] Listening at: http://0.0.0.0:5000 (148662)
+[2021-05-23 23:00:17 +0900] [148662] [INFO] Using worker: sync
+[2021-05-23 23:00:17 +0900] [148668] [INFO] Booting worker with pid: 148668
+[2021-05-23 23:00:17 +0900] [148669] [INFO] Booting worker with pid: 148669
+[2021-05-23 23:00:17 +0900] [148670] [INFO] Booting worker with pid: 148670
+[2021-05-23 23:00:17 +0900] [148671] [INFO] Booting worker with pid: 148671
+[2021-05-23 23:00:39 +0900] [148693] [INFO] Starting gunicorn 20.1.0
+[2021-05-23 23:00:39 +0900] [148693] [ERROR] Connection in use: ('0.0.0.0', 5000)
+[2021-05-23 23:00:39 +0900] [148693] [ERROR] Retrying in 1 second.
+[2021-05-23 23:00:40 +0900] [148693] [ERROR] Connection in use: ('0.0.0.0', 5000)
+[2021-05-23 23:00:40 +0900] [148693] [ERROR] Retrying in 1 second.
+[2021-05-23 23:00:41 +0900] [148693] [ERROR] Connection in use: ('0.0.0.0', 5000)
+[2021-05-23 23:00:41 +0900] [148693] [ERROR] Retrying in 1 second.
+[2021-05-23 23:00:42 +0900] [148693] [ERROR] Connection in use: ('0.0.0.0', 5000)
+[2021-05-23 23:00:42 +0900] [148693] [ERROR] Retrying in 1 second.
+[2021-05-23 23:00:43 +0900] [148693] [ERROR] Connection in use: ('0.0.0.0', 5000)
+[2021-05-23 23:00:43 +0900] [148693] [ERROR] Retrying in 1 second.
+[2021-05-23 23:00:44 +0900] [148693] [ERROR] Can't connect to ('0.0.0.0', 5000)
+[2021-05-23 23:00:57 +0900] [148717] [INFO] Starting gunicorn 20.1.0
+[2021-05-23 23:00:57 +0900] [148717] [ERROR] Connection in use: ('0.0.0.0', 5000)
+[2021-05-23 23:00:57 +0900] [148717] [ERROR] Retrying in 1 second.
+[2021-05-23 23:00:58 +0900] [148717] [ERROR] Connection in use: ('0.0.0.0', 5000)
+[2021-05-23 23:00:58 +0900] [148717] [ERROR] Retrying in 1 second.
+[2021-05-23 23:00:59 +0900] [148717] [ERROR] Connection in use: ('0.0.0.0', 5000)
+[2021-05-23 23:00:59 +0900] [148717] [ERROR] Retrying in 1 second.
+[2021-05-23 23:01:00 +0900] [148717] [ERROR] Connection in use: ('0.0.0.0', 5000)
+[2021-05-23 23:01:00 +0900] [148717] [ERROR] Retrying in 1 second.
+[2021-05-23 23:01:01 +0900] [148717] [ERROR] Connection in use: ('0.0.0.0', 5000)
+[2021-05-23 23:01:01 +0900] [148717] [ERROR] Retrying in 1 second.
+[2021-05-23 23:01:02 +0900] [148717] [ERROR] Can't connect to ('0.0.0.0', 5000)
+[2021-05-23 23:01:24 +0900] [148662] [INFO] Handling signal: term
+[2021-05-23 23:01:24 +0900] [148668] [INFO] Worker exiting (pid: 148668)
+[2021-05-23 23:01:24 +0900] [148669] [INFO] Worker exiting (pid: 148669)
+[2021-05-23 23:01:24 +0900] [148670] [INFO] Worker exiting (pid: 148670)
+[2021-05-23 23:01:24 +0900] [148671] [INFO] Worker exiting (pid: 148671)
+[2021-05-23 23:01:24 +0900] [148662] [INFO] Shutting down: Master
+[2021-05-23 23:01:24 +0900] [148754] [INFO] Starting gunicorn 20.1.0
+[2021-05-23 23:01:24 +0900] [148754] [INFO] Listening at: http://0.0.0.0:5000 (148754)
+[2021-05-23 23:01:24 +0900] [148754] [INFO] Using worker: sync
+[2021-05-23 23:01:24 +0900] [148761] [INFO] Booting worker with pid: 148761
+[2021-05-23 23:01:24 +0900] [148762] [INFO] Booting worker with pid: 148762
+[2021-05-23 23:01:24 +0900] [148763] [INFO] Booting worker with pid: 148763
+[2021-05-23 23:01:24 +0900] [148764] [INFO] Booting worker with pid: 148764
+[2021-05-23 23:02:45 +0900] [148754] [INFO] Handling signal: term
+[2021-05-23 23:02:45 +0900] [148761] [INFO] Worker exiting (pid: 148761)
+[2021-05-23 23:02:45 +0900] [148762] [INFO] Worker exiting (pid: 148762)
+[2021-05-23 23:02:45 +0900] [148763] [INFO] Worker exiting (pid: 148763)
+[2021-05-23 23:02:45 +0900] [148764] [INFO] Worker exiting (pid: 148764)
+[2021-05-23 23:02:45 +0900] [148754] [INFO] Shutting down: Master
+[2021-05-23 23:02:45 +0900] [148848] [INFO] Starting gunicorn 20.1.0
+[2021-05-23 23:02:45 +0900] [148848] [INFO] Listening at: http://0.0.0.0:5000 (148848)
+[2021-05-23 23:02:45 +0900] [148848] [INFO] Using worker: sync
+[2021-05-23 23:02:45 +0900] [148854] [INFO] Booting worker with pid: 148854
+[2021-05-23 23:02:45 +0900] [148855] [INFO] Booting worker with pid: 148855
+[2021-05-23 23:02:46 +0900] [148856] [INFO] Booting worker with pid: 148856
+[2021-05-23 23:02:46 +0900] [148857] [INFO] Booting worker with pid: 148857
+[2021-05-23 23:04:02 +0900] [148848] [INFO] Handling signal: term
+[2021-05-23 23:04:02 +0900] [148855] [INFO] Worker exiting (pid: 148855)
+[2021-05-23 23:04:02 +0900] [148854] [INFO] Worker exiting (pid: 148854)
+[2021-05-23 23:04:02 +0900] [148856] [INFO] Worker exiting (pid: 148856)
+[2021-05-23 23:04:02 +0900] [148857] [INFO] Worker exiting (pid: 148857)
+[2021-05-23 23:04:02 +0900] [148848] [INFO] Shutting down: Master
+[2021-05-23 23:07:10 +0900] [149149] [INFO] Starting gunicorn 20.1.0
+[2021-05-23 23:07:10 +0900] [149149] [INFO] Listening at: http://0.0.0.0:5000 (149149)
+[2021-05-23 23:07:10 +0900] [149149] [INFO] Using worker: sync
+[2021-05-23 23:07:10 +0900] [149156] [INFO] Booting worker with pid: 149156
+[2021-05-23 23:07:10 +0900] [149157] [INFO] Booting worker with pid: 149157
+[2021-05-23 23:07:10 +0900] [149158] [INFO] Booting worker with pid: 149158
+[2021-05-23 23:07:10 +0900] [149159] [INFO] Booting worker with pid: 149159
+[2021-05-23 23:49:33 +0900] [149149] [INFO] Handling signal: term
+[2021-05-23 23:49:33 +0900] [149156] [INFO] Worker exiting (pid: 149156)
+[2021-05-23 23:49:33 +0900] [149157] [INFO] Worker exiting (pid: 149157)
+[2021-05-23 23:49:33 +0900] [149158] [INFO] Worker exiting (pid: 149158)
+[2021-05-23 23:49:33 +0900] [149159] [INFO] Worker exiting (pid: 149159)
+[2021-05-23 23:49:33 +0900] [149149] [INFO] Shutting down: Master
+[2021-05-24 00:38:11 +0900] [158164] [INFO] Starting gunicorn 20.1.0
+[2021-05-24 00:38:11 +0900] [158164] [INFO] Listening at: http://0.0.0.0:5000 (158164)
+[2021-05-24 00:38:11 +0900] [158164] [INFO] Using worker: sync
+[2021-05-24 00:38:11 +0900] [158169] [INFO] Booting worker with pid: 158169
+[2021-05-24 00:38:11 +0900] [158170] [INFO] Booting worker with pid: 158170
+[2021-05-24 00:38:11 +0900] [158171] [INFO] Booting worker with pid: 158171
+[2021-05-24 00:38:11 +0900] [158172] [INFO] Booting worker with pid: 158172
+[2021-05-24 01:26:40 +0900] [158164] [WARNING] Worker with pid 158170 was terminated due to signal 1
+[2021-05-24 01:26:40 +0900] [158164] [WARNING] Worker with pid 158169 was terminated due to signal 1
+[2021-05-24 01:26:40 +0900] [158164] [WARNING] Worker with pid 158171 was terminated due to signal 1
+[2021-05-24 01:26:40 +0900] [158164] [WARNING] Worker with pid 158172 was terminated due to signal 1
+[2021-05-24 01:26:40 +0900] [164107] [INFO] Booting worker with pid: 164107
+[2021-05-24 01:26:40 +0900] [158164] [INFO] Handling signal: hup
+[2021-05-24 01:26:40 +0900] [158164] [INFO] Hang up: Master
+[2021-05-24 01:26:40 +0900] [164110] [INFO] Booting worker with pid: 164110
+[2021-05-24 01:26:40 +0900] [164111] [INFO] Booting worker with pid: 164111
+[2021-05-24 01:26:40 +0900] [164113] [INFO] Booting worker with pid: 164113
+[2021-05-24 01:26:40 +0900] [164112] [INFO] Booting worker with pid: 164112
+[2021-05-24 01:26:41 +0900] [164107] [INFO] Worker exiting (pid: 164107)
+[2021-05-24 01:33:57,460] ERROR in app: Exception on /intro_1 [POST]
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/site-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python3.7/site-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python3.7/site-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python3.7/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/usr/local/lib/python3.7/site-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python3.7/site-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/workspace/Villain_Universe/intro.py", line 13, in intro_1
+    use_query(query)
+NameError: name 'query' is not defined
+[2021-05-24 01:34:48 +0900] [158164] [INFO] Handling signal: term
+[2021-05-24 01:34:48 +0900] [164112] [INFO] Worker exiting (pid: 164112)
+[2021-05-24 01:34:48 +0900] [164110] [INFO] Worker exiting (pid: 164110)
+[2021-05-24 01:34:48 +0900] [164111] [INFO] Worker exiting (pid: 164111)
+[2021-05-24 01:34:48 +0900] [164113] [INFO] Worker exiting (pid: 164113)
+[2021-05-24 01:34:48 +0900] [158164] [INFO] Shutting down: Master
+[2021-05-24 01:57:39 +0900] [168135] [INFO] Starting gunicorn 20.1.0
+[2021-05-24 01:57:39 +0900] [168135] [INFO] Listening at: http://0.0.0.0:5000 (168135)
+[2021-05-24 01:57:39 +0900] [168135] [INFO] Using worker: sync
+[2021-05-24 01:57:39 +0900] [168140] [INFO] Booting worker with pid: 168140
+[2021-05-24 01:57:39 +0900] [168141] [INFO] Booting worker with pid: 168141
+[2021-05-24 01:57:39 +0900] [168142] [INFO] Booting worker with pid: 168142
+[2021-05-24 01:57:39 +0900] [168143] [INFO] Booting worker with pid: 168143
+[2021-05-24 02:32:01 +0900] [168135] [INFO] Handling signal: hup
+[2021-05-24 02:32:01 +0900] [168135] [INFO] Hang up: Master
+[2021-05-24 02:32:01 +0900] [168135] [WARNING] Worker with pid 168143 was terminated due to signal 1
+[2021-05-24 02:32:01 +0900] [168135] [WARNING] Worker with pid 168142 was terminated due to signal 1
+[2021-05-24 02:32:01 +0900] [168135] [WARNING] Worker with pid 168140 was terminated due to signal 1
+[2021-05-24 02:32:01 +0900] [168135] [WARNING] Worker with pid 168141 was terminated due to signal 1
+[2021-05-24 02:32:01 +0900] [171164] [INFO] Booting worker with pid: 171164
+[2021-05-24 02:32:01 +0900] [171165] [INFO] Booting worker with pid: 171165
+[2021-05-24 02:32:01 +0900] [171166] [INFO] Booting worker with pid: 171166
+[2021-05-24 02:32:01 +0900] [171167] [INFO] Booting worker with pid: 171167
+[2021-05-24 13:56:32 +0900] [168135] [INFO] Handling signal: term
+[2021-05-24 13:56:32 +0900] [171164] [INFO] Worker exiting (pid: 171164)
+[2021-05-24 13:56:32 +0900] [171165] [INFO] Worker exiting (pid: 171165)
+[2021-05-24 13:56:32 +0900] [171166] [INFO] Worker exiting (pid: 171166)
+[2021-05-24 13:56:32 +0900] [171167] [INFO] Worker exiting (pid: 171167)
+[2021-05-24 13:56:32 +0900] [168135] [INFO] Shutting down: Master
+[2021-05-24 13:56:54 +0900] [185600] [INFO] Starting gunicorn 20.1.0
+[2021-05-24 13:56:54 +0900] [185600] [INFO] Listening at: http://0.0.0.0:5000 (185600)
+[2021-05-24 13:56:54 +0900] [185600] [INFO] Using worker: sync
+[2021-05-24 13:56:54 +0900] [185606] [INFO] Booting worker with pid: 185606
+[2021-05-24 13:56:54 +0900] [185607] [INFO] Booting worker with pid: 185607
+[2021-05-24 13:56:55 +0900] [185608] [INFO] Booting worker with pid: 185608
+[2021-05-24 13:56:55 +0900] [185610] [INFO] Booting worker with pid: 185610
+[2021-05-24 14:10:06 +0900] [185600] [WARNING] Worker with pid 185606 was terminated due to signal 1
+[2021-05-24 14:10:06 +0900] [185600] [WARNING] Worker with pid 185608 was terminated due to signal 1
+[2021-05-24 14:10:06 +0900] [185600] [WARNING] Worker with pid 185610 was terminated due to signal 1
+[2021-05-24 14:10:06 +0900] [185600] [WARNING] Worker with pid 185607 was terminated due to signal 1
+[2021-05-24 14:10:06 +0900] [186346] [INFO] Booting worker with pid: 186346
+[2021-05-24 14:10:06 +0900] [186347] [INFO] Booting worker with pid: 186347
+[2021-05-24 14:10:06 +0900] [186348] [INFO] Booting worker with pid: 186348
+[2021-05-24 14:10:06 +0900] [186349] [INFO] Booting worker with pid: 186349
+[2021-05-24 14:10:06 +0900] [185600] [INFO] Handling signal: hup
+[2021-05-24 14:10:06 +0900] [185600] [INFO] Hang up: Master
+[2021-05-24 14:10:06 +0900] [186350] [INFO] Booting worker with pid: 186350
+[2021-05-24 14:10:06 +0900] [186351] [INFO] Booting worker with pid: 186351
+[2021-05-24 14:10:06 +0900] [186352] [INFO] Booting worker with pid: 186352
+[2021-05-24 14:10:06 +0900] [186353] [INFO] Booting worker with pid: 186353
+[2021-05-24 14:10:06 +0900] [186346] [INFO] Worker exiting (pid: 186346)
+[2021-05-24 14:10:07 +0900] [186347] [INFO] Worker exiting (pid: 186347)
+[2021-05-24 14:10:07 +0900] [186348] [INFO] Worker exiting (pid: 186348)
+[2021-05-24 14:10:07 +0900] [186349] [INFO] Worker exiting (pid: 186349)
+[2021-05-24 14:10:07 +0900] [185600] [WARNING] Worker with pid 186349 was terminated due to signal 15
+[2021-05-24 14:10:07 +0900] [185600] [WARNING] Worker with pid 186347 was terminated due to signal 15
+[2021-05-24 16:34:33,634] ERROR in app: Exception on /lock_1 [POST]
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/site-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python3.7/site-packages/flask/app.py", line 1953, in full_dispatch_request
+    return self.finalize_request(rv)
+  File "/usr/local/lib/python3.7/site-packages/flask/app.py", line 1968, in finalize_request
+    response = self.make_response(rv)
+  File "/usr/local/lib/python3.7/site-packages/flask/app.py", line 2098, in make_response
+    "The view function did not return a valid response. The"
+TypeError: The view function did not return a valid response. The function either returned None or ended without a return statement.
+[2021-05-24 16:34:43,532] ERROR in app: Exception on /lock_1 [POST]
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/site-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python3.7/site-packages/flask/app.py", line 1953, in full_dispatch_request
+    return self.finalize_request(rv)
+  File "/usr/local/lib/python3.7/site-packages/flask/app.py", line 1968, in finalize_request
+    response = self.make_response(rv)
+  File "/usr/local/lib/python3.7/site-packages/flask/app.py", line 2098, in make_response
+    "The view function did not return a valid response. The"
+TypeError: The view function did not return a valid response. The function either returned None or ended without a return statement.
+[2021-05-24 16:35:11,812] ERROR in app: Exception on /lock_1 [POST]
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/site-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python3.7/site-packages/flask/app.py", line 1953, in full_dispatch_request
+    return self.finalize_request(rv)
+  File "/usr/local/lib/python3.7/site-packages/flask/app.py", line 1968, in finalize_request
+    response = self.make_response(rv)
+  File "/usr/local/lib/python3.7/site-packages/flask/app.py", line 2098, in make_response
+    "The view function did not return a valid response. The"
+TypeError: The view function did not return a valid response. The function either returned None or ended without a return statement.
+[2021-05-24 16:44:18,133] ERROR in app: Exception on /lock_1 [POST]
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/site-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python3.7/site-packages/flask/app.py", line 1953, in full_dispatch_request
+    return self.finalize_request(rv)
+  File "/usr/local/lib/python3.7/site-packages/flask/app.py", line 1968, in finalize_request
+    response = self.make_response(rv)
+  File "/usr/local/lib/python3.7/site-packages/flask/app.py", line 2098, in make_response
+    "The view function did not return a valid response. The"
+TypeError: The view function did not return a valid response. The function either returned None or ended without a return statement.
+[2021-05-25 00:05:20 +0900] [441] [INFO] Starting gunicorn 20.1.0
+[2021-05-25 00:05:20 +0900] [441] [INFO] Listening at: http://0.0.0.0:5000 (441)
+[2021-05-25 00:05:20 +0900] [441] [INFO] Using worker: sync
+[2021-05-25 00:05:20 +0900] [448] [INFO] Booting worker with pid: 448
+[2021-05-25 00:05:20 +0900] [449] [INFO] Booting worker with pid: 449
+[2021-05-25 00:05:20 +0900] [450] [INFO] Booting worker with pid: 450
+[2021-05-25 00:05:20 +0900] [451] [INFO] Booting worker with pid: 451
+[2021-05-25 00:05:21 +0900] [449] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/site-packages/pymysql/connections.py", line 614, in connect
+    (self.host, self.port), self.connect_timeout, **kwargs
+  File "/usr/local/lib/python3.7/socket.py", line 727, in create_connection
+    raise err
+  File "/usr/local/lib/python3.7/socket.py", line 716, in create_connection
+    sock.connect(sa)
+ConnectionRefusedError: [Errno 111] Connection refused
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/site-packages/gunicorn/arbiter.py", line 589, in spawn_worker
+    worker.init_process()
+  File "/usr/local/lib/python3.7/site-packages/gunicorn/workers/base.py", line 134, in init_process
+    self.load_wsgi()
+  File "/usr/local/lib/python3.7/site-packages/gunicorn/workers/base.py", line 146, in load_wsgi
+    self.wsgi = self.app.wsgi()
+  File "/usr/local/lib/python3.7/site-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+  File "/usr/local/lib/python3.7/site-packages/gunicorn/app/wsgiapp.py", line 58, in load
+    return self.load_wsgiapp()
+  File "/usr/local/lib/python3.7/site-packages/gunicorn/app/wsgiapp.py", line 48, in load_wsgiapp
+    return util.import_app(self.app_uri)
+  File "/usr/local/lib/python3.7/site-packages/gunicorn/util.py", line 359, in import_app
+    mod = importlib.import_module(module)
+  File "/usr/local/lib/python3.7/importlib/__init__.py", line 127, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1006, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 983, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 967, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 677, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/workspace/Villain_Universe/application.py", line 2, in <module>
+    from connect import *
+  File "/workspace/Villain_Universe/connect.py", line 8, in <module>
+    skill_db = pymysql.connect(user='skilluser', passwd='dalpengi', host='0.0.0.0', db='botuser', charset='utf8mb4')
+  File "/usr/local/lib/python3.7/site-packages/pymysql/connections.py", line 353, in __init__
+    self.connect()
+  File "/usr/local/lib/python3.7/site-packages/pymysql/connections.py", line 664, in connect
+    raise exc
+pymysql.err.OperationalError: (2003, "Can't connect to MySQL server on '0.0.0.0' ([Errno 111] Connection refused)")
+[2021-05-25 00:05:21 +0900] [449] [INFO] Worker exiting (pid: 449)
+[2021-05-25 00:05:21 +0900] [451] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/site-packages/pymysql/connections.py", line 614, in connect
+    (self.host, self.port), self.connect_timeout, **kwargs
+  File "/usr/local/lib/python3.7/socket.py", line 727, in create_connection
+    raise err
+  File "/usr/local/lib/python3.7/socket.py", line 716, in create_connection
+    sock.connect(sa)
+ConnectionRefusedError: [Errno 111] Connection refused
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/site-packages/gunicorn/arbiter.py", line 589, in spawn_worker
+    worker.init_process()
+  File "/usr/local/lib/python3.7/site-packages/gunicorn/workers/base.py", line 134, in init_process
+    self.load_wsgi()
+  File "/usr/local/lib/python3.7/site-packages/gunicorn/workers/base.py", line 146, in load_wsgi
+    self.wsgi = self.app.wsgi()
+  File "/usr/local/lib/python3.7/site-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+  File "/usr/local/lib/python3.7/site-packages/gunicorn/app/wsgiapp.py", line 58, in load
+    return self.load_wsgiapp()
+  File "/usr/local/lib/python3.7/site-packages/gunicorn/app/wsgiapp.py", line 48, in load_wsgiapp
+    return util.import_app(self.app_uri)
+  File "/usr/local/lib/python3.7/site-packages/gunicorn/util.py", line 359, in import_app
+    mod = importlib.import_module(module)
+  File "/usr/local/lib/python3.7/importlib/__init__.py", line 127, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1006, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 983, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 967, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 677, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/workspace/Villain_Universe/application.py", line 2, in <module>
+    from connect import *
+  File "/workspace/Villain_Universe/connect.py", line 8, in <module>
+    skill_db = pymysql.connect(user='skilluser', passwd='dalpengi', host='0.0.0.0', db='botuser', charset='utf8mb4')
+  File "/usr/local/lib/python3.7/site-packages/pymysql/connections.py", line 353, in __init__
+    self.connect()
+  File "/usr/local/lib/python3.7/site-packages/pymysql/connections.py", line 664, in connect
+    raise exc
+pymysql.err.OperationalError: (2003, "Can't connect to MySQL server on '0.0.0.0' ([Errno 111] Connection refused)")
+[2021-05-25 00:05:21 +0900] [448] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/site-packages/pymysql/connections.py", line 614, in connect
+    (self.host, self.port), self.connect_timeout, **kwargs
+  File "/usr/local/lib/python3.7/socket.py", line 727, in create_connection
+    raise err
+  File "/usr/local/lib/python3.7/socket.py", line 716, in create_connection
+    sock.connect(sa)
+ConnectionRefusedError: [Errno 111] Connection refused
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/site-packages/gunicorn/arbiter.py", line 589, in spawn_worker
+    worker.init_process()
+  File "/usr/local/lib/python3.7/site-packages/gunicorn/workers/base.py", line 134, in init_process
+    self.load_wsgi()
+  File "/usr/local/lib/python3.7/site-packages/gunicorn/workers/base.py", line 146, in load_wsgi
+    self.wsgi = self.app.wsgi()
+  File "/usr/local/lib/python3.7/site-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+  File "/usr/local/lib/python3.7/site-packages/gunicorn/app/wsgiapp.py", line 58, in load
+    return self.load_wsgiapp()
+  File "/usr/local/lib/python3.7/site-packages/gunicorn/app/wsgiapp.py", line 48, in load_wsgiapp
+    return util.import_app(self.app_uri)
+  File "/usr/local/lib/python3.7/site-packages/gunicorn/util.py", line 359, in import_app
+    mod = importlib.import_module(module)
+  File "/usr/local/lib/python3.7/importlib/__init__.py", line 127, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1006, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 983, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 967, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 677, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/workspace/Villain_Universe/application.py", line 2, in <module>
+    from connect import *
+  File "/workspace/Villain_Universe/connect.py", line 8, in <module>
+    skill_db = pymysql.connect(user='skilluser', passwd='dalpengi', host='0.0.0.0', db='botuser', charset='utf8mb4')
+  File "/usr/local/lib/python3.7/site-packages/pymysql/connections.py", line 353, in __init__
+    self.connect()
+  File "/usr/local/lib/python3.7/site-packages/pymysql/connections.py", line 664, in connect
+    raise exc
+pymysql.err.OperationalError: (2003, "Can't connect to MySQL server on '0.0.0.0' ([Errno 111] Connection refused)")
+[2021-05-25 00:05:21 +0900] [448] [INFO] Worker exiting (pid: 448)
+[2021-05-25 00:05:21 +0900] [450] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/site-packages/pymysql/connections.py", line 614, in connect
+    (self.host, self.port), self.connect_timeout, **kwargs
+  File "/usr/local/lib/python3.7/socket.py", line 727, in create_connection
+    raise err
+  File "/usr/local/lib/python3.7/socket.py", line 716, in create_connection
+    sock.connect(sa)
+ConnectionRefusedError: [Errno 111] Connection refused
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/site-packages/gunicorn/arbiter.py", line 589, in spawn_worker
+    worker.init_process()
+  File "/usr/local/lib/python3.7/site-packages/gunicorn/workers/base.py", line 134, in init_process
+    self.load_wsgi()
+  File "/usr/local/lib/python3.7/site-packages/gunicorn/workers/base.py", line 146, in load_wsgi
+    self.wsgi = self.app.wsgi()
+  File "/usr/local/lib/python3.7/site-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+  File "/usr/local/lib/python3.7/site-packages/gunicorn/app/wsgiapp.py", line 58, in load
+    return self.load_wsgiapp()
+  File "/usr/local/lib/python3.7/site-packages/gunicorn/app/wsgiapp.py", line 48, in load_wsgiapp
+    return util.import_app(self.app_uri)
+  File "/usr/local/lib/python3.7/site-packages/gunicorn/util.py", line 359, in import_app
+    mod = importlib.import_module(module)
+  File "/usr/local/lib/python3.7/importlib/__init__.py", line 127, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1006, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 983, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 967, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 677, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/workspace/Villain_Universe/application.py", line 2, in <module>
+    from connect import *
+  File "/workspace/Villain_Universe/connect.py", line 8, in <module>
+    skill_db = pymysql.connect(user='skilluser', passwd='dalpengi', host='0.0.0.0', db='botuser', charset='utf8mb4')
+  File "/usr/local/lib/python3.7/site-packages/pymysql/connections.py", line 353, in __init__
+    self.connect()
+  File "/usr/local/lib/python3.7/site-packages/pymysql/connections.py", line 664, in connect
+    raise exc
+pymysql.err.OperationalError: (2003, "Can't connect to MySQL server on '0.0.0.0' ([Errno 111] Connection refused)")
+[2021-05-25 00:05:21 +0900] [450] [INFO] Worker exiting (pid: 450)
+[2021-05-25 00:05:21 +0900] [451] [INFO] Worker exiting (pid: 451)
+[2021-05-25 00:05:21 +0900] [441] [WARNING] Worker with pid 448 was terminated due to signal 15
+[2021-05-25 00:05:21 +0900] [441] [WARNING] Worker with pid 449 was terminated due to signal 15
+[2021-05-25 00:05:21 +0900] [441] [WARNING] Worker with pid 451 was terminated due to signal 15
+[2021-05-25 00:05:21 +0900] [441] [INFO] Shutting down: Master
+[2021-05-25 00:05:21 +0900] [441] [INFO] Reason: Worker failed to boot.
+[2021-05-25 00:06:13 +0900] [515] [INFO] Starting gunicorn 20.1.0
+[2021-05-25 00:06:13 +0900] [515] [INFO] Listening at: http://0.0.0.0:5000 (515)
+[2021-05-25 00:06:13 +0900] [515] [INFO] Using worker: sync
+[2021-05-25 00:06:13 +0900] [522] [INFO] Booting worker with pid: 522
+[2021-05-25 00:06:13 +0900] [523] [INFO] Booting worker with pid: 523
+[2021-05-25 00:06:13 +0900] [524] [INFO] Booting worker with pid: 524
+[2021-05-25 00:06:13 +0900] [525] [INFO] Booting worker with pid: 525
+[2021-05-25 00:06:14 +0900] [523] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/site-packages/pymysql/connections.py", line 614, in connect
+    (self.host, self.port), self.connect_timeout, **kwargs
+  File "/usr/local/lib/python3.7/socket.py", line 727, in create_connection
+    raise err
+  File "/usr/local/lib/python3.7/socket.py", line 716, in create_connection
+    sock.connect(sa)
+ConnectionRefusedError: [Errno 111] Connection refused
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/site-packages/gunicorn/arbiter.py", line 589, in spawn_worker
+    worker.init_process()
+  File "/usr/local/lib/python3.7/site-packages/gunicorn/workers/base.py", line 134, in init_process
+    self.load_wsgi()
+  File "/usr/local/lib/python3.7/site-packages/gunicorn/workers/base.py", line 146, in load_wsgi
+    self.wsgi = self.app.wsgi()
+  File "/usr/local/lib/python3.7/site-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+  File "/usr/local/lib/python3.7/site-packages/gunicorn/app/wsgiapp.py", line 58, in load
+    return self.load_wsgiapp()
+  File "/usr/local/lib/python3.7/site-packages/gunicorn/app/wsgiapp.py", line 48, in load_wsgiapp
+    return util.import_app(self.app_uri)
+  File "/usr/local/lib/python3.7/site-packages/gunicorn/util.py", line 359, in import_app
+    mod = importlib.import_module(module)
+  File "/usr/local/lib/python3.7/importlib/__init__.py", line 127, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1006, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 983, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 967, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 677, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/workspace/Villain_Universe/application.py", line 2, in <module>
+    from connect import *
+  File "/workspace/Villain_Universe/connect.py", line 8, in <module>
+    skill_db = pymysql.connect(user='skilluser', passwd='dalpengi', host='0.0.0.0', db='botuser', charset='utf8mb4')
+  File "/usr/local/lib/python3.7/site-packages/pymysql/connections.py", line 353, in __init__
+    self.connect()
+  File "/usr/local/lib/python3.7/site-packages/pymysql/connections.py", line 664, in connect
+    raise exc
+pymysql.err.OperationalError: (2003, "Can't connect to MySQL server on '0.0.0.0' ([Errno 111] Connection refused)")
+[2021-05-25 00:06:14 +0900] [523] [INFO] Worker exiting (pid: 523)
+[2021-05-25 00:06:14 +0900] [522] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/site-packages/pymysql/connections.py", line 614, in connect
+    (self.host, self.port), self.connect_timeout, **kwargs
+  File "/usr/local/lib/python3.7/socket.py", line 727, in create_connection
+    raise err
+  File "/usr/local/lib/python3.7/socket.py", line 716, in create_connection
+    sock.connect(sa)
+ConnectionRefusedError: [Errno 111] Connection refused
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/site-packages/gunicorn/arbiter.py", line 589, in spawn_worker
+    worker.init_process()
+  File "/usr/local/lib/python3.7/site-packages/gunicorn/workers/base.py", line 134, in init_process
+    self.load_wsgi()
+  File "/usr/local/lib/python3.7/site-packages/gunicorn/workers/base.py", line 146, in load_wsgi
+    self.wsgi = self.app.wsgi()
+  File "/usr/local/lib/python3.7/site-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+  File "/usr/local/lib/python3.7/site-packages/gunicorn/app/wsgiapp.py", line 58, in load
+    return self.load_wsgiapp()
+  File "/usr/local/lib/python3.7/site-packages/gunicorn/app/wsgiapp.py", line 48, in load_wsgiapp
+    return util.import_app(self.app_uri)
+  File "/usr/local/lib/python3.7/site-packages/gunicorn/util.py", line 359, in import_app
+    mod = importlib.import_module(module)
+  File "/usr/local/lib/python3.7/importlib/__init__.py", line 127, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1006, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 983, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 967, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 677, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/workspace/Villain_Universe/application.py", line 2, in <module>
+    from connect import *
+  File "/workspace/Villain_Universe/connect.py", line 8, in <module>
+    skill_db = pymysql.connect(user='skilluser', passwd='dalpengi', host='0.0.0.0', db='botuser', charset='utf8mb4')
+  File "/usr/local/lib/python3.7/site-packages/pymysql/connections.py", line 353, in __init__
+    self.connect()
+  File "/usr/local/lib/python3.7/site-packages/pymysql/connections.py", line 664, in connect
+    raise exc
+pymysql.err.OperationalError: (2003, "Can't connect to MySQL server on '0.0.0.0' ([Errno 111] Connection refused)")
+[2021-05-25 00:06:14 +0900] [522] [INFO] Worker exiting (pid: 522)
+[2021-05-25 00:06:14 +0900] [524] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/site-packages/pymysql/connections.py", line 614, in connect
+    (self.host, self.port), self.connect_timeout, **kwargs
+  File "/usr/local/lib/python3.7/socket.py", line 727, in create_connection
+    raise err
+  File "/usr/local/lib/python3.7/socket.py", line 716, in create_connection
+    sock.connect(sa)
+ConnectionRefusedError: [Errno 111] Connection refused
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/site-packages/gunicorn/arbiter.py", line 589, in spawn_worker
+    worker.init_process()
+  File "/usr/local/lib/python3.7/site-packages/gunicorn/workers/base.py", line 134, in init_process
+    self.load_wsgi()
+  File "/usr/local/lib/python3.7/site-packages/gunicorn/workers/base.py", line 146, in load_wsgi
+    self.wsgi = self.app.wsgi()
+  File "/usr/local/lib/python3.7/site-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+  File "/usr/local/lib/python3.7/site-packages/gunicorn/app/wsgiapp.py", line 58, in load
+    return self.load_wsgiapp()
+  File "/usr/local/lib/python3.7/site-packages/gunicorn/app/wsgiapp.py", line 48, in load_wsgiapp
+    return util.import_app(self.app_uri)
+  File "/usr/local/lib/python3.7/site-packages/gunicorn/util.py", line 359, in import_app
+    mod = importlib.import_module(module)
+  File "/usr/local/lib/python3.7/importlib/__init__.py", line 127, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1006, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 983, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 967, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 677, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/workspace/Villain_Universe/application.py", line 2, in <module>
+    from connect import *
+  File "/workspace/Villain_Universe/connect.py", line 8, in <module>
+    skill_db = pymysql.connect(user='skilluser', passwd='dalpengi', host='0.0.0.0', db='botuser', charset='utf8mb4')
+  File "/usr/local/lib/python3.7/site-packages/pymysql/connections.py", line 353, in __init__
+    self.connect()
+  File "/usr/local/lib/python3.7/site-packages/pymysql/connections.py", line 664, in connect
+    raise exc
+pymysql.err.OperationalError: (2003, "Can't connect to MySQL server on '0.0.0.0' ([Errno 111] Connection refused)")
+[2021-05-25 00:06:14 +0900] [524] [INFO] Worker exiting (pid: 524)
+[2021-05-25 00:06:14 +0900] [525] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/site-packages/pymysql/connections.py", line 614, in connect
+    (self.host, self.port), self.connect_timeout, **kwargs
+  File "/usr/local/lib/python3.7/socket.py", line 727, in create_connection
+    raise err
+  File "/usr/local/lib/python3.7/socket.py", line 716, in create_connection
+    sock.connect(sa)
+ConnectionRefusedError: [Errno 111] Connection refused
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/site-packages/gunicorn/arbiter.py", line 589, in spawn_worker
+    worker.init_process()
+  File "/usr/local/lib/python3.7/site-packages/gunicorn/workers/base.py", line 134, in init_process
+    self.load_wsgi()
+  File "/usr/local/lib/python3.7/site-packages/gunicorn/workers/base.py", line 146, in load_wsgi
+    self.wsgi = self.app.wsgi()
+  File "/usr/local/lib/python3.7/site-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+  File "/usr/local/lib/python3.7/site-packages/gunicorn/app/wsgiapp.py", line 58, in load
+    return self.load_wsgiapp()
+  File "/usr/local/lib/python3.7/site-packages/gunicorn/app/wsgiapp.py", line 48, in load_wsgiapp
+    return util.import_app(self.app_uri)
+  File "/usr/local/lib/python3.7/site-packages/gunicorn/util.py", line 359, in import_app
+    mod = importlib.import_module(module)
+  File "/usr/local/lib/python3.7/importlib/__init__.py", line 127, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1006, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 983, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 967, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 677, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/workspace/Villain_Universe/application.py", line 2, in <module>
+    from connect import *
+  File "/workspace/Villain_Universe/connect.py", line 8, in <module>
+    skill_db = pymysql.connect(user='skilluser', passwd='dalpengi', host='0.0.0.0', db='botuser', charset='utf8mb4')
+  File "/usr/local/lib/python3.7/site-packages/pymysql/connections.py", line 353, in __init__
+    self.connect()
+  File "/usr/local/lib/python3.7/site-packages/pymysql/connections.py", line 664, in connect
+    raise exc
+pymysql.err.OperationalError: (2003, "Can't connect to MySQL server on '0.0.0.0' ([Errno 111] Connection refused)")
+[2021-05-25 00:06:14 +0900] [525] [INFO] Worker exiting (pid: 525)
+[2021-05-25 00:06:38 +0900] [1213] [INFO] Starting gunicorn 20.1.0
+[2021-05-25 00:06:38 +0900] [1213] [INFO] Listening at: http://0.0.0.0:5000 (1213)
+[2021-05-25 00:06:38 +0900] [1213] [INFO] Using worker: sync
+[2021-05-25 00:06:38 +0900] [1219] [INFO] Booting worker with pid: 1219
+[2021-05-25 00:06:38 +0900] [1220] [INFO] Booting worker with pid: 1220
+[2021-05-25 00:06:38 +0900] [1221] [INFO] Booting worker with pid: 1221
+[2021-05-25 00:06:38 +0900] [1222] [INFO] Booting worker with pid: 1222
+[2021-05-25 00:07:07 +0900] [1213] [WARNING] Worker with pid 1219 was terminated due to signal 1
+[2021-05-25 00:07:07 +0900] [1213] [WARNING] Worker with pid 1220 was terminated due to signal 1
+[2021-05-25 00:07:07 +0900] [1213] [WARNING] Worker with pid 1221 was terminated due to signal 1
+[2021-05-25 00:07:07 +0900] [1213] [WARNING] Worker with pid 1222 was terminated due to signal 1
+[2021-05-25 00:07:07 +0900] [1257] [INFO] Booting worker with pid: 1257
+[2021-05-25 00:07:07 +0900] [1258] [INFO] Booting worker with pid: 1258
+[2021-05-25 00:07:07 +0900] [1259] [INFO] Booting worker with pid: 1259
+[2021-05-25 00:07:07 +0900] [1213] [INFO] Handling signal: hup
+[2021-05-25 00:07:07 +0900] [1213] [INFO] Hang up: Master
+[2021-05-25 00:07:07 +0900] [1260] [INFO] Booting worker with pid: 1260
+[2021-05-25 00:07:07 +0900] [1262] [INFO] Booting worker with pid: 1262
+[2021-05-25 00:07:07 +0900] [1261] [INFO] Booting worker with pid: 1261
+[2021-05-25 00:07:07 +0900] [1264] [INFO] Booting worker with pid: 1264
+[2021-05-25 00:07:07 +0900] [1263] [INFO] Booting worker with pid: 1263
+[2021-05-25 00:07:08 +0900] [1258] [INFO] Worker exiting (pid: 1258)
+[2021-05-25 00:07:08 +0900] [1257] [INFO] Worker exiting (pid: 1257)
+[2021-05-25 00:07:08 +0900] [1259] [INFO] Worker exiting (pid: 1259)
+[2021-05-25 00:07:09 +0900] [1213] [WARNING] Worker with pid 1257 was terminated due to signal 15
+[2021-05-25 00:07:09 +0900] [1213] [WARNING] Worker with pid 1259 was terminated due to signal 15
+[2021-05-25 00:07:09 +0900] [1260] [INFO] Worker exiting (pid: 1260)
+[2021-05-25 02:01:46,513] ERROR in app: Exception on /lock_1 [POST]
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/site-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python3.7/site-packages/flask/app.py", line 1953, in full_dispatch_request
+    return self.finalize_request(rv)
+  File "/usr/local/lib/python3.7/site-packages/flask/app.py", line 1968, in finalize_request
+    response = self.make_response(rv)
+  File "/usr/local/lib/python3.7/site-packages/flask/app.py", line 2098, in make_response
+    "The view function did not return a valid response. The"
+TypeError: The view function did not return a valid response. The function either returned None or ended without a return statement.
+[2021-05-25 02:02:09,860] ERROR in app: Exception on /lock_1 [POST]
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/site-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python3.7/site-packages/flask/app.py", line 1953, in full_dispatch_request
+    return self.finalize_request(rv)
+  File "/usr/local/lib/python3.7/site-packages/flask/app.py", line 1968, in finalize_request
+    response = self.make_response(rv)
+  File "/usr/local/lib/python3.7/site-packages/flask/app.py", line 2098, in make_response
+    "The view function did not return a valid response. The"
+TypeError: The view function did not return a valid response. The function either returned None or ended without a return statement.
+[2021-05-25 02:04:27,984] ERROR in app: Exception on /lock_1 [POST]
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/site-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python3.7/site-packages/flask/app.py", line 1953, in full_dispatch_request
+    return self.finalize_request(rv)
+  File "/usr/local/lib/python3.7/site-packages/flask/app.py", line 1968, in finalize_request
+    response = self.make_response(rv)
+  File "/usr/local/lib/python3.7/site-packages/flask/app.py", line 2098, in make_response
+    "The view function did not return a valid response. The"
+TypeError: The view function did not return a valid response. The function either returned None or ended without a return statement.
+[2021-05-25 02:04:36,567] ERROR in app: Exception on /lock_1 [POST]
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/site-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python3.7/site-packages/flask/app.py", line 1953, in full_dispatch_request
+    return self.finalize_request(rv)
+  File "/usr/local/lib/python3.7/site-packages/flask/app.py", line 1968, in finalize_request
+    response = self.make_response(rv)
+  File "/usr/local/lib/python3.7/site-packages/flask/app.py", line 2098, in make_response
+    "The view function did not return a valid response. The"
+TypeError: The view function did not return a valid response. The function either returned None or ended without a return statement.
+[2021-05-25 02:05:58,006] ERROR in app: Exception on /lock_1 [POST]
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/site-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python3.7/site-packages/flask/app.py", line 1953, in full_dispatch_request
+    return self.finalize_request(rv)
+  File "/usr/local/lib/python3.7/site-packages/flask/app.py", line 1968, in finalize_request
+    response = self.make_response(rv)
+  File "/usr/local/lib/python3.7/site-packages/flask/app.py", line 2098, in make_response
+    "The view function did not return a valid response. The"
+TypeError: The view function did not return a valid response. The function either returned None or ended without a return statement.
+[2021-05-25 02:08:04 +0900] [1213] [INFO] Handling signal: term
+[2021-05-25 02:08:04 +0900] [1261] [INFO] Worker exiting (pid: 1261)
+[2021-05-25 02:08:04 +0900] [1263] [INFO] Worker exiting (pid: 1263)
+[2021-05-25 02:08:04 +0900] [1262] [INFO] Worker exiting (pid: 1262)
+[2021-05-25 02:08:04 +0900] [1264] [INFO] Worker exiting (pid: 1264)
+[2021-05-25 02:08:04 +0900] [1213] [INFO] Shutting down: Master
+[2021-05-25 02:08:12 +0900] [1774] [INFO] Starting gunicorn 20.1.0
+[2021-05-25 02:08:12 +0900] [1774] [INFO] Listening at: http://0.0.0.0:5000 (1774)
+[2021-05-25 02:08:12 +0900] [1774] [INFO] Using worker: sync
+[2021-05-25 02:08:12 +0900] [1780] [INFO] Booting worker with pid: 1780
+[2021-05-25 02:08:12 +0900] [1781] [INFO] Booting worker with pid: 1781
+[2021-05-25 02:08:12 +0900] [1782] [INFO] Booting worker with pid: 1782
+[2021-05-25 02:08:12 +0900] [1783] [INFO] Booting worker with pid: 1783
+[2021-05-25 02:08:28,256] ERROR in app: Exception on /lock_1 [POST]
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/site-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python3.7/site-packages/flask/app.py", line 1953, in full_dispatch_request
+    return self.finalize_request(rv)
+  File "/usr/local/lib/python3.7/site-packages/flask/app.py", line 1968, in finalize_request
+    response = self.make_response(rv)
+  File "/usr/local/lib/python3.7/site-packages/flask/app.py", line 2098, in make_response
+    "The view function did not return a valid response. The"
+TypeError: The view function did not return a valid response. The function either returned None or ended without a return statement.
+[2021-05-25 02:08:32,539] ERROR in app: Exception on /lock_1 [POST]
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/site-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python3.7/site-packages/flask/app.py", line 1953, in full_dispatch_request
+    return self.finalize_request(rv)
+  File "/usr/local/lib/python3.7/site-packages/flask/app.py", line 1968, in finalize_request
+    response = self.make_response(rv)
+  File "/usr/local/lib/python3.7/site-packages/flask/app.py", line 2098, in make_response
+    "The view function did not return a valid response. The"
+TypeError: The view function did not return a valid response. The function either returned None or ended without a return statement.
+[2021-05-25 02:08:35,505] ERROR in app: Exception on /lock_1 [POST]
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/site-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python3.7/site-packages/flask/app.py", line 1953, in full_dispatch_request
+    return self.finalize_request(rv)
+  File "/usr/local/lib/python3.7/site-packages/flask/app.py", line 1968, in finalize_request
+    response = self.make_response(rv)
+  File "/usr/local/lib/python3.7/site-packages/flask/app.py", line 2098, in make_response
+    "The view function did not return a valid response. The"
+TypeError: The view function did not return a valid response. The function either returned None or ended without a return statement.
+[2021-05-25 02:08:38,651] ERROR in app: Exception on /lock_1 [POST]
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/site-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python3.7/site-packages/flask/app.py", line 1953, in full_dispatch_request
+    return self.finalize_request(rv)
+  File "/usr/local/lib/python3.7/site-packages/flask/app.py", line 1968, in finalize_request
+    response = self.make_response(rv)
+  File "/usr/local/lib/python3.7/site-packages/flask/app.py", line 2098, in make_response
+    "The view function did not return a valid response. The"
+TypeError: The view function did not return a valid response. The function either returned None or ended without a return statement.
+[2021-05-25 02:08:42,126] ERROR in app: Exception on /lock_1 [POST]
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/site-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python3.7/site-packages/flask/app.py", line 1953, in full_dispatch_request
+    return self.finalize_request(rv)
+  File "/usr/local/lib/python3.7/site-packages/flask/app.py", line 1968, in finalize_request
+    response = self.make_response(rv)
+  File "/usr/local/lib/python3.7/site-packages/flask/app.py", line 2098, in make_response
+    "The view function did not return a valid response. The"
+TypeError: The view function did not return a valid response. The function either returned None or ended without a return statement.
+[2021-05-25 02:10:25,486] ERROR in app: Exception on /lock_1 [POST]
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/site-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python3.7/site-packages/flask/app.py", line 1953, in full_dispatch_request
+    return self.finalize_request(rv)
+  File "/usr/local/lib/python3.7/site-packages/flask/app.py", line 1968, in finalize_request
+    response = self.make_response(rv)
+  File "/usr/local/lib/python3.7/site-packages/flask/app.py", line 2098, in make_response
+    "The view function did not return a valid response. The"
+TypeError: The view function did not return a valid response. The function either returned None or ended without a return statement.
+[2021-05-25 02:10:36 +0900] [1774] [INFO] Handling signal: term
+[2021-05-25 02:10:36 +0900] [1780] [INFO] Worker exiting (pid: 1780)
+[2021-05-25 02:10:36 +0900] [1781] [INFO] Worker exiting (pid: 1781)
+[2021-05-25 02:10:36 +0900] [1783] [INFO] Worker exiting (pid: 1783)
+[2021-05-25 02:10:36 +0900] [1782] [INFO] Worker exiting (pid: 1782)
+[2021-05-25 02:10:36 +0900] [1774] [INFO] Shutting down: Master
+[2021-05-25 02:11:54 +0900] [2047] [INFO] Starting gunicorn 20.1.0
+[2021-05-25 02:11:54 +0900] [2047] [INFO] Listening at: http://0.0.0.0:5000 (2047)
+[2021-05-25 02:11:54 +0900] [2047] [INFO] Using worker: sync
+[2021-05-25 02:11:54 +0900] [2053] [INFO] Booting worker with pid: 2053
+[2021-05-25 02:11:54 +0900] [2054] [INFO] Booting worker with pid: 2054
+[2021-05-25 02:11:54 +0900] [2056] [INFO] Booting worker with pid: 2056
+[2021-05-25 02:11:54 +0900] [2057] [INFO] Booting worker with pid: 2057
+[2021-05-25 02:15:46 +0900] [2047] [INFO] Handling signal: term
+[2021-05-25 02:15:46 +0900] [2056] [INFO] Worker exiting (pid: 2056)
+[2021-05-25 02:15:46 +0900] [2053] [INFO] Worker exiting (pid: 2053)
+[2021-05-25 02:15:46 +0900] [2054] [INFO] Worker exiting (pid: 2054)
+[2021-05-25 02:15:46 +0900] [2057] [INFO] Worker exiting (pid: 2057)
+[2021-05-25 02:15:46 +0900] [2047] [INFO] Shutting down: Master
+[2021-05-25 02:15:48 +0900] [2289] [INFO] Starting gunicorn 20.1.0
+[2021-05-25 02:15:48 +0900] [2289] [INFO] Listening at: http://0.0.0.0:5000 (2289)
+[2021-05-25 02:15:48 +0900] [2289] [INFO] Using worker: sync
+[2021-05-25 02:15:48 +0900] [2296] [INFO] Booting worker with pid: 2296
+[2021-05-25 02:15:48 +0900] [2297] [INFO] Booting worker with pid: 2297
+[2021-05-25 02:15:48 +0900] [2298] [INFO] Booting worker with pid: 2298
+[2021-05-25 02:15:48 +0900] [2299] [INFO] Booting worker with pid: 2299
+[2021-05-25 02:19:42 +0900] [2289] [INFO] Handling signal: term
+[2021-05-25 02:19:42 +0900] [2296] [INFO] Worker exiting (pid: 2296)
+[2021-05-25 02:19:42 +0900] [2297] [INFO] Worker exiting (pid: 2297)
+[2021-05-25 02:19:42 +0900] [2298] [INFO] Worker exiting (pid: 2298)
+[2021-05-25 02:19:42 +0900] [2299] [INFO] Worker exiting (pid: 2299)
+[2021-05-25 02:19:42 +0900] [2289] [INFO] Shutting down: Master
+[2021-05-25 02:35:30 +0900] [3603] [INFO] Starting gunicorn 20.1.0
+[2021-05-25 02:35:30 +0900] [3603] [INFO] Listening at: http://0.0.0.0:5000 (3603)
+[2021-05-25 02:35:30 +0900] [3603] [INFO] Using worker: sync
+[2021-05-25 02:35:30 +0900] [3610] [INFO] Booting worker with pid: 3610
+[2021-05-25 02:35:30 +0900] [3611] [INFO] Booting worker with pid: 3611
+[2021-05-25 02:35:30 +0900] [3612] [INFO] Booting worker with pid: 3612
+[2021-05-25 02:35:30 +0900] [3613] [INFO] Booting worker with pid: 3613
+[2021-05-25 02:38:03 +0900] [3603] [INFO] Handling signal: term
+[2021-05-25 02:38:03 +0900] [3612] [INFO] Worker exiting (pid: 3612)
+[2021-05-25 02:38:03 +0900] [3610] [INFO] Worker exiting (pid: 3610)
+[2021-05-25 02:38:03 +0900] [3611] [INFO] Worker exiting (pid: 3611)
+[2021-05-25 02:38:03 +0900] [3613] [INFO] Worker exiting (pid: 3613)
+[2021-05-25 02:38:03 +0900] [3603] [INFO] Shutting down: Master
+[2021-05-25 02:38:05 +0900] [3779] [INFO] Starting gunicorn 20.1.0
+[2021-05-25 02:38:05 +0900] [3779] [INFO] Listening at: http://0.0.0.0:5000 (3779)
+[2021-05-25 02:38:05 +0900] [3779] [INFO] Using worker: sync
+[2021-05-25 02:38:05 +0900] [3785] [INFO] Booting worker with pid: 3785
+[2021-05-25 02:38:05 +0900] [3786] [INFO] Booting worker with pid: 3786
+[2021-05-25 02:38:06 +0900] [3787] [INFO] Booting worker with pid: 3787
+[2021-05-25 02:38:06 +0900] [3788] [INFO] Booting worker with pid: 3788
+[2021-05-25 02:42:26 +0900] [3779] [WARNING] Worker with pid 3788 was terminated due to signal 1
+[2021-05-25 02:42:26 +0900] [3779] [WARNING] Worker with pid 3787 was terminated due to signal 1
+[2021-05-25 02:42:26 +0900] [3779] [WARNING] Worker with pid 3785 was terminated due to signal 1
+[2021-05-25 02:42:26 +0900] [4035] [INFO] Booting worker with pid: 4035
+[2021-05-25 02:42:26 +0900] [3779] [WARNING] Worker with pid 3786 was terminated due to signal 1
+[2021-05-25 02:42:26 +0900] [3779] [INFO] Handling signal: hup
+[2021-05-25 02:42:26 +0900] [3779] [INFO] Hang up: Master
+[2021-05-25 02:42:26 +0900] [4039] [INFO] Booting worker with pid: 4039
+[2021-05-25 02:42:26 +0900] [4036] [INFO] Booting worker with pid: 4036
+[2021-05-25 02:42:26 +0900] [4038] [INFO] Booting worker with pid: 4038
+[2021-05-25 02:42:26 +0900] [4037] [INFO] Booting worker with pid: 4037
+[2021-05-25 02:42:27 +0900] [4035] [INFO] Worker exiting (pid: 4035)
+[2021-05-25 02:42:27 +0900] [3779] [WARNING] Worker with pid 4035 was terminated due to signal 15
+[2021-05-25 10:27:13 +0900] [3779] [INFO] Handling signal: term
+[2021-05-25 10:27:13 +0900] [4036] [INFO] Worker exiting (pid: 4036)
+[2021-05-25 10:27:13 +0900] [4037] [INFO] Worker exiting (pid: 4037)
+[2021-05-25 10:27:13 +0900] [4038] [INFO] Worker exiting (pid: 4038)
+[2021-05-25 10:27:13 +0900] [4039] [INFO] Worker exiting (pid: 4039)
+[2021-05-25 10:27:13 +0900] [3779] [INFO] Shutting down: Master
+[2021-05-25 10:27:35 +0900] [4511] [INFO] Starting gunicorn 20.1.0
+[2021-05-25 10:27:35 +0900] [4511] [INFO] Listening at: http://0.0.0.0:5000 (4511)
+[2021-05-25 10:27:35 +0900] [4511] [INFO] Using worker: sync
+[2021-05-25 10:27:35 +0900] [4518] [INFO] Booting worker with pid: 4518
+[2021-05-25 10:27:35 +0900] [4519] [INFO] Booting worker with pid: 4519
+[2021-05-25 10:27:35 +0900] [4520] [INFO] Booting worker with pid: 4520
+[2021-05-25 10:27:35 +0900] [4521] [INFO] Booting worker with pid: 4521
+[2021-05-25 10:27:42 +0900] [4511] [INFO] Handling signal: hup
+[2021-05-25 10:27:42 +0900] [4511] [INFO] Hang up: Master
+[2021-05-25 10:27:42 +0900] [4511] [WARNING] Worker with pid 4521 was terminated due to signal 1
+[2021-05-25 10:27:42 +0900] [4511] [WARNING] Worker with pid 4518 was terminated due to signal 1
+[2021-05-25 10:27:42 +0900] [4511] [WARNING] Worker with pid 4519 was terminated due to signal 1
+[2021-05-25 10:27:42 +0900] [4511] [WARNING] Worker with pid 4520 was terminated due to signal 1
+[2021-05-25 10:27:42 +0900] [4528] [INFO] Booting worker with pid: 4528
+[2021-05-25 10:27:42 +0900] [4527] [INFO] Booting worker with pid: 4527
+[2021-05-25 10:27:42 +0900] [4526] [INFO] Booting worker with pid: 4526
+[2021-05-25 10:27:42 +0900] [4529] [INFO] Booting worker with pid: 4529
+[2021-05-26 00:15:01 +0900] [4511] [INFO] Handling signal: term
+[2021-05-26 00:15:01 +0900] [4526] [INFO] Worker exiting (pid: 4526)
+[2021-05-26 00:15:01 +0900] [4527] [INFO] Worker exiting (pid: 4527)
+[2021-05-26 00:15:01 +0900] [4528] [INFO] Worker exiting (pid: 4528)
+[2021-05-26 00:15:01 +0900] [4529] [INFO] Worker exiting (pid: 4529)
+[2021-05-26 00:15:01 +0900] [4511] [INFO] Shutting down: Master
+[2021-05-26 00:15:01 +0900] [13724] [INFO] Starting gunicorn 20.1.0
+[2021-05-26 00:15:01 +0900] [13724] [INFO] Listening at: http://0.0.0.0:5000 (13724)
+[2021-05-26 00:15:01 +0900] [13724] [INFO] Using worker: sync
+[2021-05-26 00:15:01 +0900] [13731] [INFO] Booting worker with pid: 13731
+[2021-05-26 00:15:01 +0900] [13732] [INFO] Booting worker with pid: 13732
+[2021-05-26 00:15:02 +0900] [13733] [INFO] Booting worker with pid: 13733
+[2021-05-26 00:15:02 +0900] [13734] [INFO] Booting worker with pid: 13734
+[2021-05-26 00:16:45 +0900] [13724] [WARNING] Worker with pid 13731 was terminated due to signal 1
+[2021-05-26 00:16:45 +0900] [13724] [WARNING] Worker with pid 13732 was terminated due to signal 1
+[2021-05-26 00:16:45 +0900] [13724] [WARNING] Worker with pid 13733 was terminated due to signal 1
+[2021-05-26 00:16:45 +0900] [13724] [WARNING] Worker with pid 13734 was terminated due to signal 1
+[2021-05-26 00:16:45 +0900] [13837] [INFO] Booting worker with pid: 13837
+[2021-05-26 00:16:45 +0900] [13838] [INFO] Booting worker with pid: 13838
+[2021-05-26 00:16:45 +0900] [13839] [INFO] Booting worker with pid: 13839
+[2021-05-26 00:16:45 +0900] [13724] [INFO] Handling signal: hup
+[2021-05-26 00:16:45 +0900] [13724] [INFO] Hang up: Master
+[2021-05-26 00:16:45 +0900] [13840] [INFO] Booting worker with pid: 13840
+[2021-05-26 00:16:45 +0900] [13841] [INFO] Booting worker with pid: 13841
+[2021-05-26 00:16:45 +0900] [13842] [INFO] Booting worker with pid: 13842
+[2021-05-26 00:16:45 +0900] [13843] [INFO] Booting worker with pid: 13843
+[2021-05-26 00:16:46 +0900] [13839] [INFO] Worker exiting (pid: 13839)
+[2021-05-26 00:16:46 +0900] [13837] [INFO] Worker exiting (pid: 13837)
+[2021-05-26 00:16:46 +0900] [13838] [INFO] Worker exiting (pid: 13838)
+[2021-05-26 00:16:46 +0900] [13724] [WARNING] Worker with pid 13837 was terminated due to signal 15
+[2021-05-31 20:02:02 +0900] [13724] [INFO] Handling signal: term
+[2021-05-31 20:02:02 +0900] [13840] [INFO] Worker exiting (pid: 13840)
+[2021-05-31 20:02:02 +0900] [13841] [INFO] Worker exiting (pid: 13841)
+[2021-05-31 20:02:02 +0900] [13842] [INFO] Worker exiting (pid: 13842)
+[2021-05-31 20:02:02 +0900] [13843] [INFO] Worker exiting (pid: 13843)
+[2021-05-31 20:02:02 +0900] [13724] [INFO] Shutting down: Master
+[2021-05-31 20:02:03 +0900] [19177] [INFO] Starting gunicorn 20.1.0
+[2021-05-31 20:02:03 +0900] [19177] [INFO] Listening at: http://0.0.0.0:5000 (19177)
+[2021-05-31 20:02:03 +0900] [19177] [INFO] Using worker: sync
+[2021-05-31 20:02:03 +0900] [19184] [INFO] Booting worker with pid: 19184
+[2021-05-31 20:02:03 +0900] [19185] [INFO] Booting worker with pid: 19185
+[2021-05-31 20:02:03 +0900] [19186] [INFO] Booting worker with pid: 19186
+[2021-05-31 20:02:03 +0900] [19187] [INFO] Booting worker with pid: 19187
+[2021-05-31 20:10:57 +0900] [19177] [WARNING] Worker with pid 19186 was terminated due to signal 1
+[2021-05-31 20:10:57 +0900] [19177] [WARNING] Worker with pid 19187 was terminated due to signal 1
+[2021-05-31 20:10:57 +0900] [19177] [WARNING] Worker with pid 19185 was terminated due to signal 1
+[2021-05-31 20:10:57 +0900] [19177] [WARNING] Worker with pid 19184 was terminated due to signal 1
+[2021-05-31 20:10:57 +0900] [19670] [INFO] Booting worker with pid: 19670
+[2021-05-31 20:10:57 +0900] [19671] [INFO] Booting worker with pid: 19671
+[2021-05-31 20:10:57 +0900] [19177] [INFO] Handling signal: hup
+[2021-05-31 20:10:57 +0900] [19177] [INFO] Hang up: Master
+[2021-05-31 20:10:57 +0900] [19672] [INFO] Booting worker with pid: 19672
+[2021-05-31 20:10:57 +0900] [19674] [INFO] Booting worker with pid: 19674
+[2021-05-31 20:10:57 +0900] [19675] [INFO] Booting worker with pid: 19675
+[2021-05-31 20:10:57 +0900] [19673] [INFO] Booting worker with pid: 19673
+[2021-05-31 20:10:58 +0900] [19670] [INFO] Worker exiting (pid: 19670)
+[2021-05-31 20:10:58 +0900] [19671] [INFO] Worker exiting (pid: 19671)
+[2021-06-01 00:38:06 +0900] [19177] [INFO] Handling signal: term
+[2021-06-01 00:38:06 +0900] [19672] [INFO] Worker exiting (pid: 19672)
+[2021-06-01 00:38:06 +0900] [19673] [INFO] Worker exiting (pid: 19673)
+[2021-06-01 00:38:06 +0900] [19674] [INFO] Worker exiting (pid: 19674)
+[2021-06-01 00:38:06 +0900] [19675] [INFO] Worker exiting (pid: 19675)
+[2021-06-01 00:38:06 +0900] [19177] [INFO] Shutting down: Master
+[2021-06-01 00:38:06 +0900] [20530] [INFO] Starting gunicorn 20.1.0
+[2021-06-01 00:38:06 +0900] [20530] [INFO] Listening at: http://0.0.0.0:5000 (20530)
+[2021-06-01 00:38:06 +0900] [20530] [INFO] Using worker: sync
+[2021-06-01 00:38:06 +0900] [20533] [INFO] Booting worker with pid: 20533
+[2021-06-01 00:38:06 +0900] [20534] [INFO] Booting worker with pid: 20534
+[2021-06-01 00:38:06 +0900] [20535] [INFO] Booting worker with pid: 20535
+[2021-06-01 00:38:06 +0900] [20536] [INFO] Booting worker with pid: 20536
+[2021-06-01 03:15:57 +0900] [20530] [WARNING] Worker with pid 20533 was terminated due to signal 1
+[2021-06-01 03:15:57 +0900] [20530] [WARNING] Worker with pid 20534 was terminated due to signal 1
+[2021-06-01 03:15:57 +0900] [20530] [WARNING] Worker with pid 20535 was terminated due to signal 1
+[2021-06-01 03:15:57 +0900] [20530] [WARNING] Worker with pid 20536 was terminated due to signal 1
+[2021-06-01 03:15:57 +0900] [20539] [INFO] Booting worker with pid: 20539
+[2021-06-01 03:15:57 +0900] [20540] [INFO] Booting worker with pid: 20540
+[2021-06-01 03:15:57 +0900] [20541] [INFO] Booting worker with pid: 20541
+[2021-06-01 03:15:57 +0900] [20542] [INFO] Booting worker with pid: 20542
+[2021-06-01 03:15:58 +0900] [20530] [INFO] Handling signal: hup
+[2021-06-01 03:15:58 +0900] [20530] [INFO] Hang up: Master
+[2021-06-01 03:15:58 +0900] [20544] [INFO] Booting worker with pid: 20544
+[2021-06-01 03:15:58 +0900] [20543] [INFO] Booting worker with pid: 20543
+[2021-06-01 03:15:58 +0900] [20545] [INFO] Booting worker with pid: 20545
+[2021-06-01 03:15:58 +0900] [20546] [INFO] Booting worker with pid: 20546
+[2021-06-01 03:15:58 +0900] [20539] [INFO] Worker exiting (pid: 20539)
+[2021-06-01 03:15:58 +0900] [20541] [INFO] Worker exiting (pid: 20541)
+[2021-06-01 03:15:59 +0900] [20540] [INFO] Worker exiting (pid: 20540)
+[2021-06-01 03:15:59 +0900] [20530] [WARNING] Worker with pid 20540 was terminated due to signal 15
+[2021-06-01 03:15:59 +0900] [20542] [INFO] Worker exiting (pid: 20542)
+[2021-06-01 15:49:26 +0900] [20530] [INFO] Handling signal: term
+[2021-06-01 15:49:26 +0900] [20545] [INFO] Worker exiting (pid: 20545)
+[2021-06-01 15:49:26 +0900] [20546] [INFO] Worker exiting (pid: 20546)
+[2021-06-01 15:49:26 +0900] [20543] [INFO] Worker exiting (pid: 20543)
+[2021-06-01 15:49:26 +0900] [20544] [INFO] Worker exiting (pid: 20544)
+[2021-06-01 15:49:26 +0900] [20530] [INFO] Shutting down: Master
+[2021-06-01 15:49:26 +0900] [20968] [INFO] Starting gunicorn 20.1.0
+[2021-06-01 15:49:26 +0900] [20968] [INFO] Listening at: http://0.0.0.0:5000 (20968)
+[2021-06-01 15:49:26 +0900] [20968] [INFO] Using worker: sync
+[2021-06-01 15:49:26 +0900] [20975] [INFO] Booting worker with pid: 20975
+[2021-06-01 15:49:26 +0900] [20976] [INFO] Booting worker with pid: 20976
+[2021-06-01 15:49:27 +0900] [20977] [INFO] Booting worker with pid: 20977
+[2021-06-01 15:49:27 +0900] [20978] [INFO] Booting worker with pid: 20978
+[2021-06-01 15:50:22 +0900] [20968] [WARNING] Worker with pid 20977 was terminated due to signal 1
+[2021-06-01 15:50:22 +0900] [20968] [WARNING] Worker with pid 20976 was terminated due to signal 1
+[2021-06-01 15:50:22 +0900] [20968] [WARNING] Worker with pid 20978 was terminated due to signal 1
+[2021-06-01 15:50:22 +0900] [20968] [WARNING] Worker with pid 20975 was terminated due to signal 1
+[2021-06-01 15:50:22 +0900] [21036] [INFO] Booting worker with pid: 21036
+[2021-06-01 15:50:22 +0900] [20968] [INFO] Handling signal: hup
+[2021-06-01 15:50:22 +0900] [20968] [INFO] Hang up: Master
+[2021-06-01 15:50:22 +0900] [21037] [INFO] Booting worker with pid: 21037
+[2021-06-01 15:50:22 +0900] [21039] [INFO] Booting worker with pid: 21039
+[2021-06-01 15:50:22 +0900] [21040] [INFO] Booting worker with pid: 21040
+[2021-06-01 15:50:22 +0900] [21041] [INFO] Booting worker with pid: 21041
+[2021-06-01 15:50:22 +0900] [21038] [INFO] Booting worker with pid: 21038
+[2021-06-01 15:50:23 +0900] [21036] [INFO] Worker exiting (pid: 21036)
+[2021-06-01 15:50:23 +0900] [21037] [INFO] Worker exiting (pid: 21037)
+[2021-06-01 17:57:58 +0900] [20968] [INFO] Handling signal: term
+[2021-06-01 17:57:58 +0900] [21038] [INFO] Worker exiting (pid: 21038)
+[2021-06-01 17:57:58 +0900] [21039] [INFO] Worker exiting (pid: 21039)
+[2021-06-01 17:57:58 +0900] [21040] [INFO] Worker exiting (pid: 21040)
+[2021-06-01 17:57:58 +0900] [21041] [INFO] Worker exiting (pid: 21041)
+[2021-06-01 17:57:58 +0900] [20968] [INFO] Shutting down: Master
+[2021-06-01 17:57:58 +0900] [21455] [INFO] Starting gunicorn 20.1.0
+[2021-06-01 17:57:58 +0900] [21455] [INFO] Listening at: http://0.0.0.0:5000 (21455)
+[2021-06-01 17:57:58 +0900] [21455] [INFO] Using worker: sync
+[2021-06-01 17:57:58 +0900] [21461] [INFO] Booting worker with pid: 21461
+[2021-06-01 17:57:58 +0900] [21462] [INFO] Booting worker with pid: 21462
+[2021-06-01 17:57:58 +0900] [21463] [INFO] Booting worker with pid: 21463
+[2021-06-01 17:57:59 +0900] [21464] [INFO] Booting worker with pid: 21464
+[2021-06-01 20:55:20 +0900] [21455] [WARNING] Worker with pid 21461 was terminated due to signal 1
+[2021-06-01 20:55:20 +0900] [21455] [WARNING] Worker with pid 21462 was terminated due to signal 1
+[2021-06-01 20:55:20 +0900] [21455] [WARNING] Worker with pid 21463 was terminated due to signal 1
+[2021-06-01 20:55:20 +0900] [21455] [WARNING] Worker with pid 21464 was terminated due to signal 1
+[2021-06-01 20:55:20 +0900] [31723] [INFO] Booting worker with pid: 31723
+[2021-06-01 20:55:20 +0900] [31724] [INFO] Booting worker with pid: 31724
+[2021-06-01 20:55:20 +0900] [31725] [INFO] Booting worker with pid: 31725
+[2021-06-01 20:55:20 +0900] [31726] [INFO] Booting worker with pid: 31726
+[2021-06-01 20:55:20 +0900] [21455] [INFO] Handling signal: hup
+[2021-06-01 20:55:20 +0900] [21455] [INFO] Hang up: Master
+[2021-06-01 20:55:20 +0900] [31727] [INFO] Booting worker with pid: 31727
+[2021-06-01 20:55:20 +0900] [31728] [INFO] Booting worker with pid: 31728
+[2021-06-01 20:55:20 +0900] [31730] [INFO] Booting worker with pid: 31730
+[2021-06-01 20:55:20 +0900] [31729] [INFO] Booting worker with pid: 31729
+[2021-06-01 20:55:21 +0900] [31723] [INFO] Worker exiting (pid: 31723)
+[2021-06-01 20:55:21 +0900] [31724] [INFO] Worker exiting (pid: 31724)
+[2021-06-01 20:55:21 +0900] [31725] [INFO] Worker exiting (pid: 31725)
+[2021-06-01 20:55:21 +0900] [31726] [INFO] Worker exiting (pid: 31726)
+[2021-06-01 20:55:21 +0900] [21455] [WARNING] Worker with pid 31725 was terminated due to signal 15
+[2021-06-01 20:55:21 +0900] [21455] [WARNING] Worker with pid 31726 was terminated due to signal 15
+[2021-06-01 22:00:51,092] ERROR in app: Exception on /fallback [POST]
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/site-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python3.7/site-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python3.7/site-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python3.7/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/usr/local/lib/python3.7/site-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python3.7/site-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/workspace/Villain_Universe/fallback.py", line 126, in fallback
+    set_user_name(user_id, utterance)
+  File "/workspace/Villain_Universe/connect.py", line 103, in set_user_name
+    set_cell(user_id, 'user_info', 'user_name', "'" + user_name + "'")
+  File "/workspace/Villain_Universe/connect.py", line 91, in set_cell
+    use_query(query)
+  File "/workspace/Villain_Universe/connect.py", line 77, in use_query
+    cursor.execute(query)
+  File "/usr/local/lib/python3.7/site-packages/pymysql/cursors.py", line 148, in execute
+    result = self._query(query)
+  File "/usr/local/lib/python3.7/site-packages/pymysql/cursors.py", line 310, in _query
+    conn.query(q)
+  File "/usr/local/lib/python3.7/site-packages/pymysql/connections.py", line 548, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "/usr/local/lib/python3.7/site-packages/pymysql/connections.py", line 775, in _read_query_result
+    result.read()
+  File "/usr/local/lib/python3.7/site-packages/pymysql/connections.py", line 1156, in read
+    first_packet = self.connection._read_packet()
+  File "/usr/local/lib/python3.7/site-packages/pymysql/connections.py", line 725, in _read_packet
+    packet.raise_for_error()
+  File "/usr/local/lib/python3.7/site-packages/pymysql/protocol.py", line 221, in raise_for_error
+    err.raise_mysql_exception(self._data)
+  File "/usr/local/lib/python3.7/site-packages/pymysql/err.py", line 143, in raise_mysql_exception
+    raise errorclass(errno, errval)
+pymysql.err.ProgrammingError: (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '2ca69fa8d3fa3088c85b851371f9504a7783e3634ca15ee80f7fb14c44765c4343'' at line 1")
+[2021-06-02 17:12:56,718] ERROR in app: Exception on /simpleskillanswer [POST]
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/site-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python3.7/site-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python3.7/site-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python3.7/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/usr/local/lib/python3.7/site-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python3.7/site-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/workspace/Villain_Universe/application.py", line 34, in simpleskillanswer
+    print('user utterance: '+utterance)
+OSError: [Errno 5] Input/output error
+[2021-06-02 17:21:51 +0900] [21455] [INFO] Handling signal: term
+[2021-06-02 17:21:51 +0900] [31727] [INFO] Worker exiting (pid: 31727)
+[2021-06-02 17:21:51 +0900] [31728] [INFO] Worker exiting (pid: 31728)
+[2021-06-02 17:21:51 +0900] [31729] [INFO] Worker exiting (pid: 31729)
+[2021-06-02 17:21:51 +0900] [31730] [INFO] Worker exiting (pid: 31730)
+[2021-06-02 17:21:51 +0900] [21455] [INFO] Shutting down: Master
+[2021-06-02 19:04:38 +0900] [32089] [INFO] Starting gunicorn 20.1.0
+[2021-06-02 19:04:38 +0900] [32089] [INFO] Listening at: http://0.0.0.0:5000 (32089)
+[2021-06-02 19:04:38 +0900] [32089] [INFO] Using worker: sync
+[2021-06-02 19:04:38 +0900] [32092] [INFO] Booting worker with pid: 32092
+[2021-06-02 19:04:38 +0900] [32093] [INFO] Booting worker with pid: 32093
+[2021-06-02 19:04:38 +0900] [32094] [INFO] Booting worker with pid: 32094
+[2021-06-02 19:04:38 +0900] [32095] [INFO] Booting worker with pid: 32095
+[2021-06-03 02:51:09 +0900] [32089] [INFO] Handling signal: term
+[2021-06-03 02:51:09 +0900] [32092] [INFO] Worker exiting (pid: 32092)
+[2021-06-03 02:51:09 +0900] [32093] [INFO] Worker exiting (pid: 32093)
+[2021-06-03 02:51:09 +0900] [32094] [INFO] Worker exiting (pid: 32094)
+[2021-06-03 02:51:09 +0900] [32095] [INFO] Worker exiting (pid: 32095)
+[2021-06-03 02:51:09 +0900] [32089] [INFO] Shutting down: Master
+[2021-06-03 02:51:09 +0900] [32098] [INFO] Starting gunicorn 20.1.0
+[2021-06-03 02:51:09 +0900] [32098] [INFO] Listening at: http://0.0.0.0:5000 (32098)
+[2021-06-03 02:51:09 +0900] [32098] [INFO] Using worker: sync
+[2021-06-03 02:51:09 +0900] [32101] [INFO] Booting worker with pid: 32101
+[2021-06-03 02:51:09 +0900] [32102] [INFO] Booting worker with pid: 32102
+[2021-06-03 02:51:09 +0900] [32103] [INFO] Booting worker with pid: 32103
+[2021-06-03 02:51:09 +0900] [32104] [INFO] Booting worker with pid: 32104
+[2021-06-03 02:56:43 +0900] [32098] [INFO] Handling signal: term
+[2021-06-03 02:56:43 +0900] [32102] [INFO] Worker exiting (pid: 32102)
+[2021-06-03 02:56:43 +0900] [32101] [INFO] Worker exiting (pid: 32101)
+[2021-06-03 02:56:43 +0900] [32103] [INFO] Worker exiting (pid: 32103)
+[2021-06-03 02:56:43 +0900] [32104] [INFO] Worker exiting (pid: 32104)
+[2021-06-03 02:56:44 +0900] [32098] [INFO] Shutting down: Master
+[2021-06-03 02:56:44 +0900] [32105] [INFO] Starting gunicorn 20.1.0
+[2021-06-03 02:56:44 +0900] [32105] [INFO] Listening at: http://0.0.0.0:5000 (32105)
+[2021-06-03 02:56:44 +0900] [32105] [INFO] Using worker: sync
+[2021-06-03 02:56:44 +0900] [32108] [INFO] Booting worker with pid: 32108
+[2021-06-03 02:56:44 +0900] [32109] [INFO] Booting worker with pid: 32109
+[2021-06-03 02:56:44 +0900] [32110] [INFO] Booting worker with pid: 32110
+[2021-06-03 02:56:44 +0900] [32111] [INFO] Booting worker with pid: 32111
+[2021-06-03 02:57:01 +0900] [32105] [INFO] Handling signal: hup
+[2021-06-03 02:57:01 +0900] [32105] [INFO] Hang up: Master
+[2021-06-03 02:57:01 +0900] [32105] [WARNING] Worker with pid 32110 was terminated due to signal 1
+[2021-06-03 02:57:01 +0900] [32105] [WARNING] Worker with pid 32108 was terminated due to signal 1
+[2021-06-03 02:57:01 +0900] [32105] [WARNING] Worker with pid 32109 was terminated due to signal 1
+[2021-06-03 02:57:01 +0900] [32105] [WARNING] Worker with pid 32111 was terminated due to signal 1
+[2021-06-03 02:57:01 +0900] [32116] [INFO] Booting worker with pid: 32116
+[2021-06-03 02:57:01 +0900] [32118] [INFO] Booting worker with pid: 32118
+[2021-06-03 02:57:01 +0900] [32119] [INFO] Booting worker with pid: 32119
+[2021-06-03 02:57:01 +0900] [32117] [INFO] Booting worker with pid: 32117
+[2021-06-03 13:03:19 +0900] [32105] [INFO] Handling signal: term
+[2021-06-03 13:03:19 +0900] [32116] [INFO] Worker exiting (pid: 32116)
+[2021-06-03 13:03:19 +0900] [32117] [INFO] Worker exiting (pid: 32117)
+[2021-06-03 13:03:20 +0900] [32118] [INFO] Worker exiting (pid: 32118)
+[2021-06-03 13:03:20 +0900] [32119] [INFO] Worker exiting (pid: 32119)
+[2021-06-03 13:03:20 +0900] [32105] [INFO] Shutting down: Master
+[2021-06-03 13:03:20 +0900] [32694] [INFO] Starting gunicorn 20.1.0
+[2021-06-03 13:03:20 +0900] [32694] [INFO] Listening at: http://0.0.0.0:5000 (32694)
+[2021-06-03 13:03:20 +0900] [32694] [INFO] Using worker: sync
+[2021-06-03 13:03:20 +0900] [32700] [INFO] Booting worker with pid: 32700
+[2021-06-03 13:03:20 +0900] [32701] [INFO] Booting worker with pid: 32701
+[2021-06-03 13:03:20 +0900] [32702] [INFO] Booting worker with pid: 32702
+[2021-06-03 13:03:20 +0900] [32703] [INFO] Booting worker with pid: 32703
+[2021-06-03 13:17:30 +0900] [32694] [WARNING] Worker with pid 32700 was terminated due to signal 1
+[2021-06-03 13:17:30 +0900] [32694] [WARNING] Worker with pid 32701 was terminated due to signal 1
+[2021-06-03 13:17:30 +0900] [32694] [WARNING] Worker with pid 32702 was terminated due to signal 1
+[2021-06-03 13:17:30 +0900] [32694] [WARNING] Worker with pid 32703 was terminated due to signal 1
+[2021-06-03 13:17:30 +0900] [33434] [INFO] Booting worker with pid: 33434
+[2021-06-03 13:17:30 +0900] [33435] [INFO] Booting worker with pid: 33435
+[2021-06-03 13:17:30 +0900] [33436] [INFO] Booting worker with pid: 33436
+[2021-06-03 13:17:30 +0900] [33437] [INFO] Booting worker with pid: 33437
+[2021-06-03 13:17:31 +0900] [32694] [INFO] Handling signal: hup
+[2021-06-03 13:17:31 +0900] [32694] [INFO] Hang up: Master
+[2021-06-03 13:17:31 +0900] [33439] [INFO] Booting worker with pid: 33439
+[2021-06-03 13:17:31 +0900] [33441] [INFO] Booting worker with pid: 33441
+[2021-06-03 13:17:31 +0900] [33438] [INFO] Booting worker with pid: 33438
+[2021-06-03 13:17:31 +0900] [33440] [INFO] Booting worker with pid: 33440
+[2021-06-03 13:17:32 +0900] [33434] [INFO] Worker exiting (pid: 33434)
+[2021-06-03 13:17:32 +0900] [33436] [INFO] Worker exiting (pid: 33436)
+[2021-06-03 13:17:32 +0900] [32694] [WARNING] Worker with pid 33436 was terminated due to signal 15
+[2021-06-03 13:17:32 +0900] [33435] [INFO] Worker exiting (pid: 33435)
+[2021-06-03 13:17:32 +0900] [33437] [INFO] Worker exiting (pid: 33437)
+[2021-06-03 14:46:13,308] ERROR in app: Exception on /fallback [POST]
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/site-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python3.7/site-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python3.7/site-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python3.7/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/usr/local/lib/python3.7/site-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python3.7/site-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/workspace/Villain_Universe/fallback.py", line 124, in fallback
+    prev_block_id = get_save(user_id)
+  File "/workspace/Villain_Universe/connect.py", line 100, in get_save
+    return get_cell(user_id, 'user_info', 'prev_block_id')
+  File "/workspace/Villain_Universe/connect.py", line 86, in get_cell
+    cell = use_query(query)[0][column]
+IndexError: tuple index out of range
+[2021-06-03 14:46:16,055] ERROR in app: Exception on /fallback [POST]
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/site-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python3.7/site-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python3.7/site-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python3.7/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/usr/local/lib/python3.7/site-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python3.7/site-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/workspace/Villain_Universe/fallback.py", line 124, in fallback
+    prev_block_id = get_save(user_id)
+  File "/workspace/Villain_Universe/connect.py", line 100, in get_save
+    return get_cell(user_id, 'user_info', 'prev_block_id')
+  File "/workspace/Villain_Universe/connect.py", line 86, in get_cell
+    cell = use_query(query)[0][column]
+IndexError: tuple index out of range
+[2021-06-03 14:46:18,323] ERROR in app: Exception on /fallback [POST]
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/site-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python3.7/site-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python3.7/site-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python3.7/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/usr/local/lib/python3.7/site-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python3.7/site-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/workspace/Villain_Universe/fallback.py", line 124, in fallback
+    prev_block_id = get_save(user_id)
+  File "/workspace/Villain_Universe/connect.py", line 100, in get_save
+    return get_cell(user_id, 'user_info', 'prev_block_id')
+  File "/workspace/Villain_Universe/connect.py", line 86, in get_cell
+    cell = use_query(query)[0][column]
+IndexError: tuple index out of range
+[2021-06-03 14:46:26,516] ERROR in app: Exception on /fallback [POST]
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/site-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python3.7/site-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python3.7/site-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python3.7/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/usr/local/lib/python3.7/site-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python3.7/site-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/workspace/Villain_Universe/fallback.py", line 124, in fallback
+    prev_block_id = get_save(user_id)
+  File "/workspace/Villain_Universe/connect.py", line 100, in get_save
+    return get_cell(user_id, 'user_info', 'prev_block_id')
+  File "/workspace/Villain_Universe/connect.py", line 86, in get_cell
+    cell = use_query(query)[0][column]
+IndexError: tuple index out of range
+[2021-06-03 14:46:28,016] ERROR in app: Exception on /fallback [POST]
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/site-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python3.7/site-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python3.7/site-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python3.7/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/usr/local/lib/python3.7/site-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python3.7/site-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/workspace/Villain_Universe/fallback.py", line 124, in fallback
+    prev_block_id = get_save(user_id)
+  File "/workspace/Villain_Universe/connect.py", line 100, in get_save
+    return get_cell(user_id, 'user_info', 'prev_block_id')
+  File "/workspace/Villain_Universe/connect.py", line 86, in get_cell
+    cell = use_query(query)[0][column]
+IndexError: tuple index out of range
+[2021-06-03 15:23:05 +0900] [32694] [INFO] Handling signal: term
+[2021-06-03 15:23:05 +0900] [33439] [INFO] Worker exiting (pid: 33439)
+[2021-06-03 15:23:05 +0900] [33438] [INFO] Worker exiting (pid: 33438)
+[2021-06-03 15:23:05 +0900] [33440] [INFO] Worker exiting (pid: 33440)
+[2021-06-03 15:23:05 +0900] [33441] [INFO] Worker exiting (pid: 33441)
+[2021-06-03 15:23:06 +0900] [32694] [INFO] Shutting down: Master
+[2021-06-03 15:23:06 +0900] [34122] [INFO] Starting gunicorn 20.1.0
+[2021-06-03 15:23:06 +0900] [34122] [INFO] Listening at: http://0.0.0.0:5000 (34122)
+[2021-06-03 15:23:06 +0900] [34122] [INFO] Using worker: sync
+[2021-06-03 15:23:06 +0900] [34128] [INFO] Booting worker with pid: 34128
+[2021-06-03 15:23:06 +0900] [34129] [INFO] Booting worker with pid: 34129
+[2021-06-03 15:23:06 +0900] [34130] [INFO] Booting worker with pid: 34130
+[2021-06-03 15:23:06 +0900] [34131] [INFO] Booting worker with pid: 34131
+[2021-06-03 15:24:06,358] ERROR in app: Exception on /ending_1 [POST]
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/site-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python3.7/site-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python3.7/site-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python3.7/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/usr/local/lib/python3.7/site-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python3.7/site-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/workspace/Villain_Universe/ending.py", line 8, in ending_1
+    user_name = get_user_name(user_id)
+  File "/workspace/Villain_Universe/connect.py", line 106, in get_user_name
+    return get_cell(user_id, 'user_info', 'user_name')
+  File "/workspace/Villain_Universe/connect.py", line 86, in get_cell
+    cell = use_query(query)[0][column]
+IndexError: tuple index out of range
+[2021-06-03 15:25:53 +0900] [34122] [INFO] Handling signal: term
+[2021-06-03 15:25:53 +0900] [34128] [INFO] Worker exiting (pid: 34128)
+[2021-06-03 15:25:53 +0900] [34129] [INFO] Worker exiting (pid: 34129)
+[2021-06-03 15:25:53 +0900] [34130] [INFO] Worker exiting (pid: 34130)
+[2021-06-03 15:25:53 +0900] [34131] [INFO] Worker exiting (pid: 34131)
+[2021-06-03 15:25:53 +0900] [34122] [INFO] Shutting down: Master
+[2021-06-03 15:25:53 +0900] [34299] [INFO] Starting gunicorn 20.1.0
+[2021-06-03 15:25:53 +0900] [34299] [INFO] Listening at: http://0.0.0.0:5000 (34299)
+[2021-06-03 15:25:53 +0900] [34299] [INFO] Using worker: sync
+[2021-06-03 15:25:53 +0900] [34306] [INFO] Booting worker with pid: 34306
+[2021-06-03 15:25:53 +0900] [34307] [INFO] Booting worker with pid: 34307
+[2021-06-03 15:25:53 +0900] [34308] [INFO] Booting worker with pid: 34308
+[2021-06-03 15:25:53 +0900] [34309] [INFO] Booting worker with pid: 34309
+[2021-06-03 15:32:08 +0900] [34299] [INFO] Handling signal: hup
+[2021-06-03 15:32:08 +0900] [34299] [INFO] Hang up: Master
+[2021-06-03 15:32:08 +0900] [34299] [WARNING] Worker with pid 34309 was terminated due to signal 1
+[2021-06-03 15:32:08 +0900] [34299] [WARNING] Worker with pid 34306 was terminated due to signal 1
+[2021-06-03 15:32:08 +0900] [34299] [WARNING] Worker with pid 34307 was terminated due to signal 1
+[2021-06-03 15:32:08 +0900] [34299] [WARNING] Worker with pid 34308 was terminated due to signal 1
+[2021-06-03 15:32:08 +0900] [34641] [INFO] Booting worker with pid: 34641
+[2021-06-03 15:32:08 +0900] [34642] [INFO] Booting worker with pid: 34642
+[2021-06-03 15:32:08 +0900] [34643] [INFO] Booting worker with pid: 34643
+[2021-06-03 15:32:08 +0900] [34644] [INFO] Booting worker with pid: 34644
+[2021-06-03 19:58:27 +0900] [34299] [INFO] Handling signal: term
+[2021-06-03 19:58:27 +0900] [34641] [INFO] Worker exiting (pid: 34641)
+[2021-06-03 19:58:27 +0900] [34643] [INFO] Worker exiting (pid: 34643)
+[2021-06-03 19:58:27 +0900] [34644] [INFO] Worker exiting (pid: 34644)
+[2021-06-03 19:58:27 +0900] [34642] [INFO] Worker exiting (pid: 34642)
+[2021-06-03 19:58:27 +0900] [34299] [INFO] Shutting down: Master
+[2021-06-03 19:58:28 +0900] [37280] [INFO] Starting gunicorn 20.1.0
+[2021-06-03 19:58:28 +0900] [37280] [INFO] Listening at: http://0.0.0.0:5000 (37280)
+[2021-06-03 19:58:28 +0900] [37280] [INFO] Using worker: sync
+[2021-06-03 19:58:28 +0900] [37287] [INFO] Booting worker with pid: 37287
+[2021-06-03 19:58:28 +0900] [37288] [INFO] Booting worker with pid: 37288
+[2021-06-03 19:58:28 +0900] [37289] [INFO] Booting worker with pid: 37289
+[2021-06-03 19:58:28 +0900] [37290] [INFO] Booting worker with pid: 37290
+[2021-06-03 20:06:30 +0900] [37811] [INFO] Starting gunicorn 20.1.0
+[2021-06-03 20:06:30 +0900] [37811] [ERROR] Connection in use: ('0.0.0.0', 5000)
+[2021-06-03 20:06:30 +0900] [37811] [ERROR] Retrying in 1 second.
+[2021-06-03 20:06:31 +0900] [37811] [ERROR] Connection in use: ('0.0.0.0', 5000)
+[2021-06-03 20:06:31 +0900] [37811] [ERROR] Retrying in 1 second.
+[2021-06-03 20:06:32 +0900] [37811] [ERROR] Connection in use: ('0.0.0.0', 5000)
+[2021-06-03 20:06:32 +0900] [37811] [ERROR] Retrying in 1 second.
+[2021-06-03 20:06:33 +0900] [37811] [ERROR] Connection in use: ('0.0.0.0', 5000)
+[2021-06-03 20:06:33 +0900] [37811] [ERROR] Retrying in 1 second.
+[2021-06-03 20:06:34 +0900] [37811] [ERROR] Connection in use: ('0.0.0.0', 5000)
+[2021-06-03 20:06:34 +0900] [37811] [ERROR] Retrying in 1 second.
+[2021-06-03 20:06:35 +0900] [37811] [ERROR] Can't connect to ('0.0.0.0', 5000)
+[2021-06-03 20:07:10 +0900] [37280] [INFO] Handling signal: term
+[2021-06-03 20:07:10 +0900] [37290] [INFO] Worker exiting (pid: 37290)
+[2021-06-03 20:07:10 +0900] [37287] [INFO] Worker exiting (pid: 37287)
+[2021-06-03 20:07:10 +0900] [37288] [INFO] Worker exiting (pid: 37288)
+[2021-06-03 20:07:10 +0900] [37289] [INFO] Worker exiting (pid: 37289)
+[2021-06-03 20:07:11 +0900] [37280] [INFO] Shutting down: Master
+[2021-06-03 20:07:11 +0900] [37876] [INFO] Starting gunicorn 20.1.0
+[2021-06-03 20:07:11 +0900] [37876] [INFO] Listening at: http://0.0.0.0:5000 (37876)
+[2021-06-03 20:07:11 +0900] [37876] [INFO] Using worker: sync
+[2021-06-03 20:07:11 +0900] [37882] [INFO] Booting worker with pid: 37882
+[2021-06-03 20:07:11 +0900] [37883] [INFO] Booting worker with pid: 37883
+[2021-06-03 20:07:11 +0900] [37884] [INFO] Booting worker with pid: 37884
+[2021-06-03 20:07:11 +0900] [37885] [INFO] Booting worker with pid: 37885
+[2021-06-03 20:10:00 +0900] [37876] [INFO] Handling signal: term
+[2021-06-03 20:10:00 +0900] [37885] [INFO] Worker exiting (pid: 37885)
+[2021-06-03 20:10:00 +0900] [37882] [INFO] Worker exiting (pid: 37882)
+[2021-06-03 20:10:00 +0900] [37883] [INFO] Worker exiting (pid: 37883)
+[2021-06-03 20:10:00 +0900] [37884] [INFO] Worker exiting (pid: 37884)
+[2021-06-03 20:10:00 +0900] [37876] [INFO] Shutting down: Master
+[2021-06-03 20:10:00 +0900] [38069] [INFO] Starting gunicorn 20.1.0
+[2021-06-03 20:10:00 +0900] [38069] [INFO] Listening at: http://0.0.0.0:5000 (38069)
+[2021-06-03 20:10:00 +0900] [38069] [INFO] Using worker: sync
+[2021-06-03 20:10:00 +0900] [38076] [INFO] Booting worker with pid: 38076
+[2021-06-03 20:10:00 +0900] [38077] [INFO] Booting worker with pid: 38077
+[2021-06-03 20:10:00 +0900] [38078] [INFO] Booting worker with pid: 38078
+[2021-06-03 20:10:00 +0900] [38079] [INFO] Booting worker with pid: 38079
+[2021-06-03 20:15:31 +0900] [38069] [WARNING] Worker with pid 38076 was terminated due to signal 1
+[2021-06-03 20:15:31 +0900] [38069] [WARNING] Worker with pid 38077 was terminated due to signal 1
+[2021-06-03 20:15:31 +0900] [38069] [WARNING] Worker with pid 38078 was terminated due to signal 1
+[2021-06-03 20:15:31 +0900] [38069] [WARNING] Worker with pid 38079 was terminated due to signal 1
+[2021-06-03 20:15:31 +0900] [38410] [INFO] Booting worker with pid: 38410
+[2021-06-03 20:15:31 +0900] [38411] [INFO] Booting worker with pid: 38411
+[2021-06-03 20:15:31 +0900] [38412] [INFO] Booting worker with pid: 38412
+[2021-06-03 20:15:31 +0900] [38413] [INFO] Booting worker with pid: 38413
+[2021-06-03 20:15:31 +0900] [38069] [INFO] Handling signal: hup
+[2021-06-03 20:15:31 +0900] [38069] [INFO] Hang up: Master
+[2021-06-03 20:15:31 +0900] [38415] [INFO] Booting worker with pid: 38415
+[2021-06-03 20:15:31 +0900] [38416] [INFO] Booting worker with pid: 38416
+[2021-06-03 20:15:31 +0900] [38417] [INFO] Booting worker with pid: 38417
+[2021-06-03 20:15:31 +0900] [38414] [INFO] Booting worker with pid: 38414
+[2021-06-03 20:15:32 +0900] [38412] [INFO] Worker exiting (pid: 38412)
+[2021-06-03 20:15:32 +0900] [38410] [INFO] Worker exiting (pid: 38410)
+[2021-06-03 20:15:32 +0900] [38411] [INFO] Worker exiting (pid: 38411)
+[2021-06-03 20:15:32 +0900] [38413] [INFO] Worker exiting (pid: 38413)
+[2021-06-03 20:15:33 +0900] [38069] [WARNING] Worker with pid 38413 was terminated due to signal 15
+[2021-06-03 20:15:33 +0900] [38069] [WARNING] Worker with pid 38411 was terminated due to signal 15
+[2021-06-03 20:15:33 +0900] [38069] [WARNING] Worker with pid 38410 was terminated due to signal 15
+[2021-06-03 20:47:22 +0900] [38069] [INFO] Handling signal: term
+[2021-06-03 20:47:22 +0900] [38414] [INFO] Worker exiting (pid: 38414)
+[2021-06-03 20:47:22 +0900] [38416] [INFO] Worker exiting (pid: 38416)
+[2021-06-03 20:47:22 +0900] [38417] [INFO] Worker exiting (pid: 38417)
+[2021-06-03 20:47:22 +0900] [38415] [INFO] Worker exiting (pid: 38415)
+[2021-06-03 20:47:22 +0900] [38069] [INFO] Shutting down: Master
+[2021-06-03 20:47:22 +0900] [38794] [INFO] Starting gunicorn 20.1.0
+[2021-06-03 20:47:22 +0900] [38794] [INFO] Listening at: http://0.0.0.0:5000 (38794)
+[2021-06-03 20:47:22 +0900] [38794] [INFO] Using worker: sync
+[2021-06-03 20:47:22 +0900] [38800] [INFO] Booting worker with pid: 38800
+[2021-06-03 20:47:22 +0900] [38801] [INFO] Booting worker with pid: 38801
+[2021-06-03 20:47:22 +0900] [38802] [INFO] Booting worker with pid: 38802
+[2021-06-03 20:47:22 +0900] [38803] [INFO] Booting worker with pid: 38803
+[2021-06-03 23:10:48 +0900] [38794] [WARNING] Worker with pid 38800 was terminated due to signal 1
+[2021-06-03 23:10:48 +0900] [38794] [WARNING] Worker with pid 38801 was terminated due to signal 1
+[2021-06-03 23:10:48 +0900] [38794] [WARNING] Worker with pid 38802 was terminated due to signal 1
+[2021-06-03 23:10:48 +0900] [38794] [WARNING] Worker with pid 38803 was terminated due to signal 1
+[2021-06-03 23:10:48 +0900] [47041] [INFO] Booting worker with pid: 47041
+[2021-06-03 23:10:48 +0900] [47042] [INFO] Booting worker with pid: 47042
+[2021-06-03 23:10:49 +0900] [47043] [INFO] Booting worker with pid: 47043
+[2021-06-03 23:10:49 +0900] [47044] [INFO] Booting worker with pid: 47044
+[2021-06-03 23:10:49 +0900] [38794] [INFO] Handling signal: hup
+[2021-06-03 23:10:49 +0900] [38794] [INFO] Hang up: Master
+[2021-06-03 23:10:49 +0900] [47046] [INFO] Booting worker with pid: 47046
+[2021-06-03 23:10:49 +0900] [47045] [INFO] Booting worker with pid: 47045
+[2021-06-03 23:10:49 +0900] [47047] [INFO] Booting worker with pid: 47047
+[2021-06-03 23:10:49 +0900] [47048] [INFO] Booting worker with pid: 47048
+[2021-06-03 23:10:49 +0900] [47041] [INFO] Worker exiting (pid: 47041)
+[2021-06-03 23:10:49 +0900] [47042] [INFO] Worker exiting (pid: 47042)
+[2021-06-03 23:10:50 +0900] [47043] [INFO] Worker exiting (pid: 47043)
+[2021-06-03 23:10:50 +0900] [38794] [WARNING] Worker with pid 47043 was terminated due to signal 15
+[2021-06-03 23:10:50 +0900] [47044] [INFO] Worker exiting (pid: 47044)
+[2021-06-04 13:52:43 +0900] [38794] [INFO] Handling signal: term
+[2021-06-04 13:52:43 +0900] [47045] [INFO] Worker exiting (pid: 47045)
+[2021-06-04 13:52:43 +0900] [47046] [INFO] Worker exiting (pid: 47046)
+[2021-06-04 13:52:43 +0900] [47047] [INFO] Worker exiting (pid: 47047)
+[2021-06-04 13:52:43 +0900] [47048] [INFO] Worker exiting (pid: 47048)
+[2021-06-04 13:52:43 +0900] [38794] [INFO] Shutting down: Master
+[2021-06-04 14:16:20 +0900] [50571] [INFO] Starting gunicorn 20.1.0
+[2021-06-04 14:16:20 +0900] [50571] [INFO] Listening at: http://0.0.0.0:5000 (50571)
+[2021-06-04 14:16:20 +0900] [50571] [INFO] Using worker: sync
+[2021-06-04 14:16:20 +0900] [50578] [INFO] Booting worker with pid: 50578
+[2021-06-04 14:16:20 +0900] [50579] [INFO] Booting worker with pid: 50579
+[2021-06-04 14:16:20 +0900] [50580] [INFO] Booting worker with pid: 50580
+[2021-06-04 14:16:20 +0900] [50581] [INFO] Booting worker with pid: 50581
+[2021-06-04 14:34:16 +0900] [50571] [WARNING] Worker with pid 50578 was terminated due to signal 1
+[2021-06-04 14:34:16 +0900] [50571] [WARNING] Worker with pid 50579 was terminated due to signal 1
+[2021-06-04 14:34:16 +0900] [50571] [WARNING] Worker with pid 50581 was terminated due to signal 1
+[2021-06-04 14:34:16 +0900] [50571] [WARNING] Worker with pid 50580 was terminated due to signal 1
+[2021-06-04 14:34:16 +0900] [51593] [INFO] Booting worker with pid: 51593
+[2021-06-04 14:34:16 +0900] [51594] [INFO] Booting worker with pid: 51594
+[2021-06-04 14:34:16 +0900] [51595] [INFO] Booting worker with pid: 51595
+[2021-06-04 14:34:17 +0900] [50571] [INFO] Handling signal: hup
+[2021-06-04 14:34:17 +0900] [50571] [INFO] Hang up: Master
+[2021-06-04 14:34:17 +0900] [51596] [INFO] Booting worker with pid: 51596
+[2021-06-04 14:34:17 +0900] [51597] [INFO] Booting worker with pid: 51597
+[2021-06-04 14:34:17 +0900] [51598] [INFO] Booting worker with pid: 51598
+[2021-06-04 14:34:17 +0900] [51599] [INFO] Booting worker with pid: 51599
+[2021-06-04 14:34:17 +0900] [51600] [INFO] Booting worker with pid: 51600
+[2021-06-04 14:34:17 +0900] [51593] [INFO] Worker exiting (pid: 51593)
+[2021-06-04 14:34:17 +0900] [51594] [INFO] Worker exiting (pid: 51594)
+[2021-06-04 14:34:18 +0900] [51595] [INFO] Worker exiting (pid: 51595)
+[2021-06-04 14:34:18 +0900] [51596] [INFO] Worker exiting (pid: 51596)
+[2021-06-04 14:35:39,969] ERROR in app: Exception on /intro_1 [POST]
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/site-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python3.7/site-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python3.7/site-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python3.7/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/usr/local/lib/python3.7/site-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python3.7/site-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/workspace/Villain_Universe/intro.py", line 23, in intro_1
+    "blockId": prev_block_id
+NameError: name 'prev_block_id' is not defined
+[2021-06-04 14:35:52,989] ERROR in app: Exception on /intro_1 [POST]
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/site-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python3.7/site-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python3.7/site-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python3.7/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/usr/local/lib/python3.7/site-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python3.7/site-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/workspace/Villain_Universe/intro.py", line 23, in intro_1
+    "blockId": prev_block_id
+NameError: name 'prev_block_id' is not defined
+[2021-06-04 14:36:28,663] ERROR in app: Exception on /intro_1 [POST]
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/site-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python3.7/site-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python3.7/site-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python3.7/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/usr/local/lib/python3.7/site-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python3.7/site-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/workspace/Villain_Universe/intro.py", line 23, in intro_1
+    "blockId": prev_block_id
+NameError: name 'prev_block_id' is not defined
+[2021-06-04 14:36:30,764] ERROR in app: Exception on /intro_1 [POST]
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/site-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python3.7/site-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python3.7/site-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python3.7/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/usr/local/lib/python3.7/site-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python3.7/site-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/workspace/Villain_Universe/intro.py", line 23, in intro_1
+    "blockId": prev_block_id
+NameError: name 'prev_block_id' is not defined
+[2021-06-04 14:36:35,392] ERROR in app: Exception on /intro_1 [POST]
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/site-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python3.7/site-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python3.7/site-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python3.7/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/usr/local/lib/python3.7/site-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python3.7/site-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/workspace/Villain_Universe/intro.py", line 23, in intro_1
+    "blockId": prev_block_id
+NameError: name 'prev_block_id' is not defined
+[2021-06-04 14:36:40,646] ERROR in app: Exception on /intro_1 [POST]
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/site-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python3.7/site-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python3.7/site-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python3.7/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/usr/local/lib/python3.7/site-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python3.7/site-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/workspace/Villain_Universe/intro.py", line 23, in intro_1
+    "blockId": prev_block_id
+NameError: name 'prev_block_id' is not defined
+[2021-06-04 14:37:27,666] ERROR in app: Exception on /intro_1 [POST]
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/site-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python3.7/site-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python3.7/site-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python3.7/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/usr/local/lib/python3.7/site-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python3.7/site-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/workspace/Villain_Universe/intro.py", line 23, in intro_1
+    "blockId": prev_block_id
+NameError: name 'prev_block_id' is not defined
+[2021-06-04 14:37:38,354] ERROR in app: Exception on /intro_1 [POST]
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/site-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python3.7/site-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python3.7/site-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python3.7/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/usr/local/lib/python3.7/site-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python3.7/site-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/workspace/Villain_Universe/intro.py", line 23, in intro_1
+    "blockId": prev_block_id
+NameError: name 'prev_block_id' is not defined
+[2021-06-04 14:37:56,022] ERROR in app: Exception on /intro_1 [POST]
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/site-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python3.7/site-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python3.7/site-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python3.7/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/usr/local/lib/python3.7/site-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python3.7/site-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/workspace/Villain_Universe/intro.py", line 23, in intro_1
+    "blockId": prev_block_id
+NameError: name 'prev_block_id' is not defined
+[2021-06-04 14:39:43 +0900] [50571] [INFO] Handling signal: term
+[2021-06-04 14:39:43 +0900] [51597] [INFO] Worker exiting (pid: 51597)
+[2021-06-04 14:39:43 +0900] [51598] [INFO] Worker exiting (pid: 51598)
+[2021-06-04 14:39:43 +0900] [51600] [INFO] Worker exiting (pid: 51600)
+[2021-06-04 14:39:43 +0900] [51599] [INFO] Worker exiting (pid: 51599)
+[2021-06-04 14:39:44 +0900] [50571] [INFO] Shutting down: Master
+[2021-06-04 14:39:44 +0900] [51711] [INFO] Starting gunicorn 20.1.0
+[2021-06-04 14:39:44 +0900] [51711] [INFO] Listening at: http://0.0.0.0:5000 (51711)
+[2021-06-04 14:39:44 +0900] [51711] [INFO] Using worker: sync
+[2021-06-04 14:39:44 +0900] [51714] [INFO] Booting worker with pid: 51714
+[2021-06-04 14:39:44 +0900] [51715] [INFO] Booting worker with pid: 51715
+[2021-06-04 14:39:44 +0900] [51716] [INFO] Booting worker with pid: 51716
+[2021-06-04 14:39:44 +0900] [51717] [INFO] Booting worker with pid: 51717
+[2021-06-04 15:22:54 +0900] [51711] [WARNING] Worker with pid 51714 was terminated due to signal 1
+[2021-06-04 15:22:54 +0900] [51711] [WARNING] Worker with pid 51716 was terminated due to signal 1
+[2021-06-04 15:22:54 +0900] [51711] [WARNING] Worker with pid 51717 was terminated due to signal 1
+[2021-06-04 15:22:54 +0900] [51711] [WARNING] Worker with pid 51715 was terminated due to signal 1
+[2021-06-04 15:22:54 +0900] [51720] [INFO] Booting worker with pid: 51720
+[2021-06-04 15:22:54 +0900] [51721] [INFO] Booting worker with pid: 51721
+[2021-06-04 15:22:54 +0900] [51722] [INFO] Booting worker with pid: 51722
+[2021-06-04 15:22:54 +0900] [51723] [INFO] Booting worker with pid: 51723
+[2021-06-04 15:22:54 +0900] [51711] [INFO] Handling signal: hup
+[2021-06-04 15:22:54 +0900] [51711] [INFO] Hang up: Master
+[2021-06-04 15:22:54 +0900] [51724] [INFO] Booting worker with pid: 51724
+[2021-06-04 15:22:54 +0900] [51725] [INFO] Booting worker with pid: 51725
+[2021-06-04 15:22:54 +0900] [51726] [INFO] Booting worker with pid: 51726
+[2021-06-04 15:22:54 +0900] [51727] [INFO] Booting worker with pid: 51727
+[2021-06-04 15:22:55 +0900] [51721] [INFO] Worker exiting (pid: 51721)
+[2021-06-04 15:22:55 +0900] [51720] [INFO] Worker exiting (pid: 51720)
+[2021-06-04 15:22:55 +0900] [51711] [WARNING] Worker with pid 51720 was terminated due to signal 15
+[2021-06-04 15:22:55 +0900] [51711] [WARNING] Worker with pid 51721 was terminated due to signal 15
+[2021-06-04 15:22:55 +0900] [51722] [INFO] Worker exiting (pid: 51722)
+[2021-06-04 15:22:56 +0900] [51723] [INFO] Worker exiting (pid: 51723)
+[2021-06-04 15:22:56 +0900] [51711] [WARNING] Worker with pid 51723 was terminated due to signal 15
+[2021-06-07 15:48:22,069] ERROR in app: Exception on /fallback [POST]
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/site-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python3.7/site-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python3.7/site-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python3.7/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/usr/local/lib/python3.7/site-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python3.7/site-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/workspace/Villain_Universe/fallback.py", line 152, in fallback
+    set_user_name(user_id, utterance)
+  File "/workspace/Villain_Universe/connect.py", line 103, in set_user_name
+    set_cell(user_id, 'user_info', 'user_name', "'" + user_name + "'")
+  File "/workspace/Villain_Universe/connect.py", line 91, in set_cell
+    use_query(query)
+  File "/workspace/Villain_Universe/connect.py", line 77, in use_query
+    cursor.execute(query)
+  File "/usr/local/lib/python3.7/site-packages/pymysql/cursors.py", line 148, in execute
+    result = self._query(query)
+  File "/usr/local/lib/python3.7/site-packages/pymysql/cursors.py", line 310, in _query
+    conn.query(q)
+  File "/usr/local/lib/python3.7/site-packages/pymysql/connections.py", line 548, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "/usr/local/lib/python3.7/site-packages/pymysql/connections.py", line 775, in _read_query_result
+    result.read()
+  File "/usr/local/lib/python3.7/site-packages/pymysql/connections.py", line 1156, in read
+    first_packet = self.connection._read_packet()
+  File "/usr/local/lib/python3.7/site-packages/pymysql/connections.py", line 725, in _read_packet
+    packet.raise_for_error()
+  File "/usr/local/lib/python3.7/site-packages/pymysql/protocol.py", line 221, in raise_for_error
+    err.raise_mysql_exception(self._data)
+  File "/usr/local/lib/python3.7/site-packages/pymysql/err.py", line 143, in raise_mysql_exception
+    raise errorclass(errno, errval)
+pymysql.err.DataError: (1366, "Incorrect string value: '\\xF0\\x9F\\x98\\x9C' for column 'user_name' at row 1")
+[2021-06-07 15:48:29,500] ERROR in app: Exception on /fallback [POST]
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/site-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python3.7/site-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python3.7/site-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python3.7/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/usr/local/lib/python3.7/site-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python3.7/site-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/workspace/Villain_Universe/fallback.py", line 152, in fallback
+    set_user_name(user_id, utterance)
+  File "/workspace/Villain_Universe/connect.py", line 103, in set_user_name
+    set_cell(user_id, 'user_info', 'user_name', "'" + user_name + "'")
+  File "/workspace/Villain_Universe/connect.py", line 91, in set_cell
+    use_query(query)
+  File "/workspace/Villain_Universe/connect.py", line 77, in use_query
+    cursor.execute(query)
+  File "/usr/local/lib/python3.7/site-packages/pymysql/cursors.py", line 148, in execute
+    result = self._query(query)
+  File "/usr/local/lib/python3.7/site-packages/pymysql/cursors.py", line 310, in _query
+    conn.query(q)
+  File "/usr/local/lib/python3.7/site-packages/pymysql/connections.py", line 548, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "/usr/local/lib/python3.7/site-packages/pymysql/connections.py", line 775, in _read_query_result
+    result.read()
+  File "/usr/local/lib/python3.7/site-packages/pymysql/connections.py", line 1156, in read
+    first_packet = self.connection._read_packet()
+  File "/usr/local/lib/python3.7/site-packages/pymysql/connections.py", line 725, in _read_packet
+    packet.raise_for_error()
+  File "/usr/local/lib/python3.7/site-packages/pymysql/protocol.py", line 221, in raise_for_error
+    err.raise_mysql_exception(self._data)
+  File "/usr/local/lib/python3.7/site-packages/pymysql/err.py", line 143, in raise_mysql_exception
+    raise errorclass(errno, errval)
+pymysql.err.DataError: (1366, "Incorrect string value: '\\xF0\\x9F\\x98\\x9Caq...' for column 'user_name' at row 1")
+[2021-06-07 15:48:35,052] ERROR in app: Exception on /fallback [POST]
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/site-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python3.7/site-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python3.7/site-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python3.7/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/usr/local/lib/python3.7/site-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python3.7/site-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/workspace/Villain_Universe/fallback.py", line 152, in fallback
+    set_user_name(user_id, utterance)
+  File "/workspace/Villain_Universe/connect.py", line 103, in set_user_name
+    set_cell(user_id, 'user_info', 'user_name', "'" + user_name + "'")
+  File "/workspace/Villain_Universe/connect.py", line 91, in set_cell
+    use_query(query)
+  File "/workspace/Villain_Universe/connect.py", line 77, in use_query
+    cursor.execute(query)
+  File "/usr/local/lib/python3.7/site-packages/pymysql/cursors.py", line 148, in execute
+    result = self._query(query)
+  File "/usr/local/lib/python3.7/site-packages/pymysql/cursors.py", line 310, in _query
+    conn.query(q)
+  File "/usr/local/lib/python3.7/site-packages/pymysql/connections.py", line 548, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "/usr/local/lib/python3.7/site-packages/pymysql/connections.py", line 775, in _read_query_result
+    result.read()
+  File "/usr/local/lib/python3.7/site-packages/pymysql/connections.py", line 1156, in read
+    first_packet = self.connection._read_packet()
+  File "/usr/local/lib/python3.7/site-packages/pymysql/connections.py", line 725, in _read_packet
+    packet.raise_for_error()
+  File "/usr/local/lib/python3.7/site-packages/pymysql/protocol.py", line 221, in raise_for_error
+    err.raise_mysql_exception(self._data)
+  File "/usr/local/lib/python3.7/site-packages/pymysql/err.py", line 143, in raise_mysql_exception
+    raise errorclass(errno, errval)
+pymysql.err.DataError: (1366, "Incorrect string value: '\\xF0\\x9F\\x91\\xBB' for column 'user_name' at row 1")
+[2021-09-26 00:17:29 +0900] [1013] [INFO] Starting gunicorn 20.1.0
+[2021-09-26 00:17:29 +0900] [1013] [INFO] Listening at: http://0.0.0.0:5000 (1013)
+[2021-09-26 00:17:29 +0900] [1013] [INFO] Using worker: sync
+[2021-09-26 00:17:29 +0900] [1019] [INFO] Booting worker with pid: 1019
+[2021-09-26 00:17:29 +0900] [1020] [INFO] Booting worker with pid: 1020
+[2021-09-26 00:17:29 +0900] [1021] [INFO] Booting worker with pid: 1021
+[2021-09-26 00:17:29 +0900] [1022] [INFO] Booting worker with pid: 1022
+[2021-09-26 00:25:09 +0900] [1013] [WARNING] Worker with pid 1019 was terminated due to signal 1
+[2021-09-26 00:25:09 +0900] [1013] [WARNING] Worker with pid 1020 was terminated due to signal 1
+[2021-09-26 00:25:09 +0900] [1013] [WARNING] Worker with pid 1021 was terminated due to signal 1
+[2021-09-26 00:25:09 +0900] [1013] [WARNING] Worker with pid 1022 was terminated due to signal 1
+[2021-09-26 00:25:09 +0900] [1255] [INFO] Booting worker with pid: 1255
+[2021-09-26 00:25:09 +0900] [1256] [INFO] Booting worker with pid: 1256
+[2021-09-26 00:25:09 +0900] [1257] [INFO] Booting worker with pid: 1257
+[2021-09-26 00:25:09 +0900] [1258] [INFO] Booting worker with pid: 1258
+[2021-09-26 00:25:09 +0900] [1013] [INFO] Handling signal: hup
+[2021-09-26 00:25:09 +0900] [1013] [INFO] Hang up: Master
+[2021-09-26 00:25:09 +0900] [1259] [INFO] Booting worker with pid: 1259
+[2021-09-26 00:25:09 +0900] [1260] [INFO] Booting worker with pid: 1260
+[2021-09-26 00:25:09 +0900] [1262] [INFO] Booting worker with pid: 1262
+[2021-09-26 00:25:09 +0900] [1261] [INFO] Booting worker with pid: 1261
+[2021-09-26 00:25:10 +0900] [1256] [INFO] Worker exiting (pid: 1256)
+[2021-09-26 00:25:11 +0900] [1255] [INFO] Worker exiting (pid: 1255)
+[2021-09-26 00:25:11 +0900] [1257] [INFO] Worker exiting (pid: 1257)
+[2021-09-26 00:25:11 +0900] [1013] [WARNING] Worker with pid 1255 was terminated due to signal 15
+[2021-09-26 00:25:11 +0900] [1258] [INFO] Worker exiting (pid: 1258)
+[2022-03-09 19:39:21 +0900] [1314] [INFO] Starting gunicorn 20.1.0
+[2022-03-09 19:39:21 +0900] [1314] [INFO] Listening at: http://0.0.0.0:5000 (1314)
+[2022-03-09 19:39:21 +0900] [1314] [INFO] Using worker: sync
+[2022-03-09 19:39:21 +0900] [1325] [INFO] Booting worker with pid: 1325
+[2022-03-09 19:39:21 +0900] [1326] [INFO] Booting worker with pid: 1326
+[2022-03-09 19:39:21 +0900] [1327] [INFO] Booting worker with pid: 1327
+[2022-03-09 19:39:22 +0900] [1328] [INFO] Booting worker with pid: 1328
+[2022-03-09 19:39:22 +0900] [1326] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/site-packages/pymysql/connections.py", line 614, in connect
+    (self.host, self.port), self.connect_timeout, **kwargs
+  File "/usr/local/lib/python3.7/socket.py", line 727, in create_connection
+    raise err
+  File "/usr/local/lib/python3.7/socket.py", line 716, in create_connection
+    sock.connect(sa)
+ConnectionRefusedError: [Errno 111] Connection refused
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/site-packages/gunicorn/arbiter.py", line 589, in spawn_worker
+    worker.init_process()
+  File "/usr/local/lib/python3.7/site-packages/gunicorn/workers/base.py", line 134, in init_process
+    self.load_wsgi()
+  File "/usr/local/lib/python3.7/site-packages/gunicorn/workers/base.py", line 146, in load_wsgi
+    self.wsgi = self.app.wsgi()
+  File "/usr/local/lib/python3.7/site-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+  File "/usr/local/lib/python3.7/site-packages/gunicorn/app/wsgiapp.py", line 58, in load
+    return self.load_wsgiapp()
+  File "/usr/local/lib/python3.7/site-packages/gunicorn/app/wsgiapp.py", line 48, in load_wsgiapp
+    return util.import_app(self.app_uri)
+  File "/usr/local/lib/python3.7/site-packages/gunicorn/util.py", line 359, in import_app
+    mod = importlib.import_module(module)
+  File "/usr/local/lib/python3.7/importlib/__init__.py", line 127, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1006, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 983, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 967, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 677, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/workspace/Villain_Universe/application.py", line 2, in <module>
+    from connect import *
+  File "/workspace/Villain_Universe/connect.py", line 8, in <module>
+    skill_db = pymysql.connect(user='skilluser', passwd='dalpengi', host='0.0.0.0', db='botuser', charset='utf8mb4')
+  File "/usr/local/lib/python3.7/site-packages/pymysql/connections.py", line 353, in __init__
+    self.connect()
+  File "/usr/local/lib/python3.7/site-packages/pymysql/connections.py", line 664, in connect
+    raise exc
+pymysql.err.OperationalError: (2003, "Can't connect to MySQL server on '0.0.0.0' ([Errno 111] Connection refused)")
+[2022-03-09 19:39:22 +0900] [1325] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/site-packages/pymysql/connections.py", line 614, in connect
+    (self.host, self.port), self.connect_timeout, **kwargs
+  File "/usr/local/lib/python3.7/socket.py", line 727, in create_connection
+    raise err
+  File "/usr/local/lib/python3.7/socket.py", line 716, in create_connection
+    sock.connect(sa)
+ConnectionRefusedError: [Errno 111] Connection refused
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/site-packages/gunicorn/arbiter.py", line 589, in spawn_worker
+    worker.init_process()
+  File "/usr/local/lib/python3.7/site-packages/gunicorn/workers/base.py", line 134, in init_process
+    self.load_wsgi()
+  File "/usr/local/lib/python3.7/site-packages/gunicorn/workers/base.py", line 146, in load_wsgi
+    self.wsgi = self.app.wsgi()
+  File "/usr/local/lib/python3.7/site-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+  File "/usr/local/lib/python3.7/site-packages/gunicorn/app/wsgiapp.py", line 58, in load
+    return self.load_wsgiapp()
+  File "/usr/local/lib/python3.7/site-packages/gunicorn/app/wsgiapp.py", line 48, in load_wsgiapp
+    return util.import_app(self.app_uri)
+  File "/usr/local/lib/python3.7/site-packages/gunicorn/util.py", line 359, in import_app
+    mod = importlib.import_module(module)
+  File "/usr/local/lib/python3.7/importlib/__init__.py", line 127, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1006, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 983, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 967, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 677, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/workspace/Villain_Universe/application.py", line 2, in <module>
+    from connect import *
+  File "/workspace/Villain_Universe/connect.py", line 8, in <module>
+    skill_db = pymysql.connect(user='skilluser', passwd='dalpengi', host='0.0.0.0', db='botuser', charset='utf8mb4')
+  File "/usr/local/lib/python3.7/site-packages/pymysql/connections.py", line 353, in __init__
+    self.connect()
+  File "/usr/local/lib/python3.7/site-packages/pymysql/connections.py", line 664, in connect
+    raise exc
+pymysql.err.OperationalError: (2003, "Can't connect to MySQL server on '0.0.0.0' ([Errno 111] Connection refused)")
+[2022-03-09 19:39:22 +0900] [1325] [INFO] Worker exiting (pid: 1325)
+[2022-03-09 19:39:22 +0900] [1326] [INFO] Worker exiting (pid: 1326)
+[2022-03-09 19:39:22 +0900] [1327] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/site-packages/pymysql/connections.py", line 614, in connect
+    (self.host, self.port), self.connect_timeout, **kwargs
+  File "/usr/local/lib/python3.7/socket.py", line 727, in create_connection
+    raise err
+  File "/usr/local/lib/python3.7/socket.py", line 716, in create_connection
+    sock.connect(sa)
+ConnectionRefusedError: [Errno 111] Connection refused
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/site-packages/gunicorn/arbiter.py", line 589, in spawn_worker
+    worker.init_process()
+  File "/usr/local/lib/python3.7/site-packages/gunicorn/workers/base.py", line 134, in init_process
+    self.load_wsgi()
+  File "/usr/local/lib/python3.7/site-packages/gunicorn/workers/base.py", line 146, in load_wsgi
+    self.wsgi = self.app.wsgi()
+  File "/usr/local/lib/python3.7/site-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+  File "/usr/local/lib/python3.7/site-packages/gunicorn/app/wsgiapp.py", line 58, in load
+    return self.load_wsgiapp()
+  File "/usr/local/lib/python3.7/site-packages/gunicorn/app/wsgiapp.py", line 48, in load_wsgiapp
+    return util.import_app(self.app_uri)
+  File "/usr/local/lib/python3.7/site-packages/gunicorn/util.py", line 359, in import_app
+    mod = importlib.import_module(module)
+  File "/usr/local/lib/python3.7/importlib/__init__.py", line 127, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1006, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 983, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 967, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 677, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/workspace/Villain_Universe/application.py", line 2, in <module>
+    from connect import *
+  File "/workspace/Villain_Universe/connect.py", line 8, in <module>
+    skill_db = pymysql.connect(user='skilluser', passwd='dalpengi', host='0.0.0.0', db='botuser', charset='utf8mb4')
+  File "/usr/local/lib/python3.7/site-packages/pymysql/connections.py", line 353, in __init__
+    self.connect()
+  File "/usr/local/lib/python3.7/site-packages/pymysql/connections.py", line 664, in connect
+    raise exc
+pymysql.err.OperationalError: (2003, "Can't connect to MySQL server on '0.0.0.0' ([Errno 111] Connection refused)")
+[2022-03-09 19:39:22 +0900] [1327] [INFO] Worker exiting (pid: 1327)
+[2022-03-09 19:39:22 +0900] [1328] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/site-packages/pymysql/connections.py", line 614, in connect
+    (self.host, self.port), self.connect_timeout, **kwargs
+  File "/usr/local/lib/python3.7/socket.py", line 727, in create_connection
+    raise err
+  File "/usr/local/lib/python3.7/socket.py", line 716, in create_connection
+    sock.connect(sa)
+ConnectionRefusedError: [Errno 111] Connection refused
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/site-packages/gunicorn/arbiter.py", line 589, in spawn_worker
+    worker.init_process()
+  File "/usr/local/lib/python3.7/site-packages/gunicorn/workers/base.py", line 134, in init_process
+    self.load_wsgi()
+  File "/usr/local/lib/python3.7/site-packages/gunicorn/workers/base.py", line 146, in load_wsgi
+    self.wsgi = self.app.wsgi()
+  File "/usr/local/lib/python3.7/site-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+  File "/usr/local/lib/python3.7/site-packages/gunicorn/app/wsgiapp.py", line 58, in load
+    return self.load_wsgiapp()
+  File "/usr/local/lib/python3.7/site-packages/gunicorn/app/wsgiapp.py", line 48, in load_wsgiapp
+    return util.import_app(self.app_uri)
+  File "/usr/local/lib/python3.7/site-packages/gunicorn/util.py", line 359, in import_app
+    mod = importlib.import_module(module)
+  File "/usr/local/lib/python3.7/importlib/__init__.py", line 127, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1006, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 983, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 967, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 677, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/workspace/Villain_Universe/application.py", line 2, in <module>
+    from connect import *
+  File "/workspace/Villain_Universe/connect.py", line 8, in <module>
+    skill_db = pymysql.connect(user='skilluser', passwd='dalpengi', host='0.0.0.0', db='botuser', charset='utf8mb4')
+  File "/usr/local/lib/python3.7/site-packages/pymysql/connections.py", line 353, in __init__
+    self.connect()
+  File "/usr/local/lib/python3.7/site-packages/pymysql/connections.py", line 664, in connect
+    raise exc
+pymysql.err.OperationalError: (2003, "Can't connect to MySQL server on '0.0.0.0' ([Errno 111] Connection refused)")
+[2022-03-09 19:39:22 +0900] [1328] [INFO] Worker exiting (pid: 1328)
+[2022-03-09 19:45:13 +0900] [2075] [INFO] Starting gunicorn 20.1.0
+[2022-03-09 19:45:13 +0900] [2075] [INFO] Listening at: http://0.0.0.0:5000 (2075)
+[2022-03-09 19:45:13 +0900] [2075] [INFO] Using worker: sync
+[2022-03-09 19:45:13 +0900] [2081] [INFO] Booting worker with pid: 2081
+[2022-03-09 19:45:13 +0900] [2082] [INFO] Booting worker with pid: 2082
+[2022-03-09 19:45:13 +0900] [2083] [INFO] Booting worker with pid: 2083
+[2022-03-09 19:45:13 +0900] [2084] [INFO] Booting worker with pid: 2084
+[2022-03-09 20:48:44 +0900] [2075] [INFO] Handling signal: term
+[2022-03-09 20:48:44 +0900] [2081] [INFO] Worker exiting (pid: 2081)
+[2022-03-09 20:48:44 +0900] [2082] [INFO] Worker exiting (pid: 2082)
+[2022-03-09 20:48:44 +0900] [2083] [INFO] Worker exiting (pid: 2083)
+[2022-03-09 20:48:44 +0900] [2084] [INFO] Worker exiting (pid: 2084)
+[2022-03-09 20:48:44 +0900] [2075] [INFO] Shutting down: Master
+[2022-03-09 20:50:10 +0900] [5384] [INFO] Starting gunicorn 20.1.0
+[2022-03-09 20:50:10 +0900] [5384] [INFO] Listening at: http://0.0.0.0:5000 (5384)
+[2022-03-09 20:50:10 +0900] [5384] [INFO] Using worker: sync
+[2022-03-09 20:50:10 +0900] [5390] [INFO] Booting worker with pid: 5390
+[2022-03-09 20:50:10 +0900] [5391] [INFO] Booting worker with pid: 5391
+[2022-03-09 20:50:10 +0900] [5392] [INFO] Booting worker with pid: 5392
+[2022-03-09 20:50:10 +0900] [5393] [INFO] Booting worker with pid: 5393
+[2022-03-09 20:53:37,073] ERROR in app: Exception on /intro_2 [POST]
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/site-packages/pymysql/connections.py", line 578, in ping
+    self._read_ok_packet()
+  File "/usr/local/lib/python3.7/site-packages/pymysql/connections.py", line 443, in _read_ok_packet
+    pkt = self._read_packet()
+  File "/usr/local/lib/python3.7/site-packages/pymysql/connections.py", line 692, in _read_packet
+    packet_header = self._read_bytes(4)
+  File "/usr/local/lib/python3.7/site-packages/pymysql/connections.py", line 749, in _read_bytes
+    CR.CR_SERVER_LOST, "Lost connection to MySQL server during query"
+pymysql.err.OperationalError: (2013, 'Lost connection to MySQL server during query')
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/site-packages/pymysql/connections.py", line 614, in connect
+    (self.host, self.port), self.connect_timeout, **kwargs
+  File "/usr/local/lib/python3.7/socket.py", line 727, in create_connection
+    raise err
+  File "/usr/local/lib/python3.7/socket.py", line 716, in create_connection
+    sock.connect(sa)
+ConnectionRefusedError: [Errno 111] Connection refused
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/site-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python3.7/site-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python3.7/site-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python3.7/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/usr/local/lib/python3.7/site-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python3.7/site-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/workspace/Villain_Universe/intro.py", line 95, in intro_2
+    save_block(user_id, block_id)
+  File "/workspace/Villain_Universe/connect.py", line 94, in save_block
+    set_cell(user_id, 'user_info', 'prev_block_id', "'" + block_id + "'")
+  File "/workspace/Villain_Universe/connect.py", line 91, in set_cell
+    use_query(query)
+  File "/workspace/Villain_Universe/connect.py", line 74, in use_query
+    skill_db.ping(reconnect = True)
+  File "/usr/local/lib/python3.7/site-packages/pymysql/connections.py", line 581, in ping
+    self.connect()
+  File "/usr/local/lib/python3.7/site-packages/pymysql/connections.py", line 664, in connect
+    raise exc
+pymysql.err.OperationalError: (2003, "Can't connect to MySQL server on '0.0.0.0' ([Errno 111] Connection refused)")
+[2022-03-09 21:29:59 +0900] [5384] [INFO] Handling signal: term
+[2022-03-09 21:29:59 +0900] [5390] [INFO] Worker exiting (pid: 5390)
+[2022-03-09 21:29:59 +0900] [5391] [INFO] Worker exiting (pid: 5391)
+[2022-03-09 21:29:59 +0900] [5392] [INFO] Worker exiting (pid: 5392)
+[2022-03-09 21:29:59 +0900] [5393] [INFO] Worker exiting (pid: 5393)
+[2022-03-09 21:29:59 +0900] [5384] [INFO] Shutting down: Master
+[2022-03-09 21:29:59 +0900] [8368] [INFO] Starting gunicorn 20.1.0
+[2022-03-09 21:29:59 +0900] [8368] [INFO] Listening at: http://0.0.0.0:5000 (8368)
+[2022-03-09 21:29:59 +0900] [8368] [INFO] Using worker: sync
+[2022-03-09 21:29:59 +0900] [8374] [INFO] Booting worker with pid: 8374
+[2022-03-09 21:30:00 +0900] [8375] [INFO] Booting worker with pid: 8375
+[2022-03-09 21:30:00 +0900] [8376] [INFO] Booting worker with pid: 8376
+[2022-03-09 21:30:00 +0900] [8377] [INFO] Booting worker with pid: 8377
+[2022-03-09 22:15:58 +0900] [8368] [INFO] Handling signal: hup
+[2022-03-09 22:15:58 +0900] [8368] [INFO] Hang up: Master
+[2022-03-09 22:15:58 +0900] [8368] [WARNING] Worker with pid 8377 was terminated due to signal 1
+[2022-03-09 22:15:58 +0900] [10172] [INFO] Booting worker with pid: 10172
+[2022-03-09 22:15:58 +0900] [10173] [INFO] Booting worker with pid: 10173
+[2022-03-09 22:15:58 +0900] [10174] [INFO] Booting worker with pid: 10174
+[2022-03-09 22:15:58 +0900] [10175] [INFO] Booting worker with pid: 10175
